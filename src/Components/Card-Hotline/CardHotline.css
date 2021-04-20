@@ -1,0 +1,21 @@
+.card-hotline {
+
+}
+.card-hotline .list .item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 17px;
+}
+.card-hotline .list .item .child {
+    font-size: 17px;
+    color: var(--primary);
+}
+.card-hotline .list .item .child .icon {
+    font-size: 15px;;
+    color:black;
+    margin-right:10px;
+}
+.card-hotline .list .item .child b{
+    color:black;
+}

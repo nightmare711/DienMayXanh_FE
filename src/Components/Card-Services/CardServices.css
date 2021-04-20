@@ -1,0 +1,14 @@
+.card-services {
+}
+.card-services .card-list .list .item .icon {
+    margin: 0;
+    margin-right: 10px;
+}
+.card-services .card-list .list .item {
+    padding:10px;
+    color: var(--primary);
+    font-weight: 600;
+}
+.card-services .card-list .list .item:hover {
+    color:white;
+}

@@ -5,8 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto';
+  width:100%;
+  overflow-x: hidden;
 }
-
+:root {
+  --primary:#4B90E2 /*accessible everywhere */
+}
+.title-primary {
+  font-size:20px;
+  font-weight: 600;
+  color:white;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
