@@ -1,7 +1,6 @@
 .slideshow-container {
     display: flex;
     flex-direction: row;
-    padding:20px 60px;
     justify-content: space-between;
 }
 .slideshow-container [aria-roledescription = 'carousel'] {

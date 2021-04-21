@@ -7,8 +7,10 @@
     align-items: flex-start;
     font-size: 17px;
 }
+
 .card-hotline .list .item .child {
     font-size: 17px;
+    transition:all .5s;
     color: var(--primary);
 }
 .card-hotline .list .item .child .icon {
@@ -18,4 +20,7 @@
 }
 .card-hotline .list .item .child b{
     color:black;
+}
+.card-hotline  .list .item:hover .child {
+    color:white;
 }

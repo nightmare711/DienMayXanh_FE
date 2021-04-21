@@ -12,3 +12,8 @@
 .card-services .card-list .list .item:hover {
     color:white;
 }
+.card-services .card-list .list .item:hover  {
+    background-color:white;
+    color:var(--primary);
+    text-decoration: underline;
+}
