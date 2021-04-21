@@ -1,4 +1,6 @@
 import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faStreetView, faLifeRing } from '@fortawesome/free-solid-svg-icons'
 import './Footer.css'
 export const Footer = () => {
 	return (
@@ -11,7 +13,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fa fa-street-view'></i> Trụ sở chính:
+										<FontAwesomeIcon icon={faStreetView} /> Trụ sở chính:
 									</b>
 									Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
 								</span>
@@ -19,7 +21,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fa fa-street-view'></i> Trụ sở chính:
+										<FontAwesomeIcon icon={faStreetView} /> Trụ sở chính:
 									</b>
 									Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
 								</span>
@@ -27,7 +29,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fa fa-street-view'></i> Trụ sở chính:
+										<FontAwesomeIcon icon={faStreetView} /> Trụ sở chính:
 									</b>
 									Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
 								</span>
@@ -35,7 +37,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fa fa-street-view'></i> Trụ sở chính:
+										<FontAwesomeIcon icon={faStreetView} /> Trụ sở chính:
 									</b>
 									Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
 								</span>
@@ -43,7 +45,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fa fa-street-view'></i> Trụ sở chính:
+										<FontAwesomeIcon icon={faStreetView} /> Trụ sở chính:
 									</b>
 									Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM
 								</span>
@@ -51,7 +53,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fas fa-phone-alt'></i> Điện thoại:
+										<FontAwesomeIcon icon={faStreetView} /> Điện thoại:
 									</b>
 									0123456789
 								</span>
@@ -59,7 +61,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fas fa-headphones'></i> Hotline:
+										<FontAwesomeIcon icon={faStreetView} /> Hotline:
 									</b>
 									1900 1234
 								</span>
@@ -67,7 +69,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fas fa-envelope'></i> E-mail:
+										<FontAwesomeIcon icon={faStreetView} /> E-mail:
 									</b>
 									suachua-dienmayxanh@gmail.com
 								</span>
@@ -75,7 +77,7 @@ export const Footer = () => {
 							<li>
 								<span>
 									<b>
-										<i className='fas fa-globe'></i> Website:
+										<FontAwesomeIcon icon={faStreetView} /> Website:
 									</b>
 									www.suachua-dienmayxanh.com
 								</span>
@@ -86,37 +88,37 @@ export const Footer = () => {
 				<div className='col-footer'>
 					<div className='header'>
 						{' '}
-						<a href='#'>Bài viết về chúng tôi</a>
+						<a href='/'>Bài viết về chúng tôi</a>
 					</div>
 					<div class='panel-body'>
 						<ul>
 							<li>
-								<a href='#' title='Những lỗi thường gặp của TIVI'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Những lỗi thường gặp của TIVI'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Những lỗi thường gặp của Tivi
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
@@ -126,37 +128,37 @@ export const Footer = () => {
 				<div className='col-footer'>
 					<div className='header'>
 						{' '}
-						<a href='#'>Bài viết về chúng tôi</a>
+						<a href='/'>Bài viết về chúng tôi</a>
 					</div>
 					<div className='panel-body'>
 						<ul>
 							<li>
-								<a href='#' title='Những lỗi thường gặp của TIVI'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Những lỗi thường gặp của TIVI'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Những lỗi thường gặp của Tivi
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
 							<li>
-								<a href='#' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<i className='fa fa-life-ring'> </i>
+								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
+									<FontAwesomeIcon className='icon' icon={faLifeRing} />
 									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
 								</a>
 							</li>
