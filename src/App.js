@@ -9,6 +9,7 @@ import {
 	PaddingContent,
 	Footer,
 } from 'Components'
+import { Contact } from 'pages/Contact/Contact'
 import { purchaseList } from 'constants/purchase'
 import { listOldProduct } from 'constants/old-products'
 function App() {
