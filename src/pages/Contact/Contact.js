@@ -1,6 +1,4 @@
 import React from 'react'
-import { Map } from 'google-maps-react'
-import { MapComponent } from 'Components'
 import './Contact.css'
 
 export const Contact = () => {
@@ -75,7 +73,15 @@ export const Contact = () => {
 				</div>
 			</div>
 			<div className='contain-map'>
-				<MapComponent />
+				<iframe
+					title='Map'
+					width='600'
+					height='450'
+					loading='lazy'
+					allowfullscreen
+					src='https://www.google.com/maps/embed/v1/place?key=AIzaSyADXWEpFk6amxWr7W_x-fbPQt_0HohGVSw
+    &q=Space+Needle,Seattle+WA'
+				></iframe>
 			</div>
 		</div>
 	)
