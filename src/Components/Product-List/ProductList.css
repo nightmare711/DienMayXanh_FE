@@ -1,0 +1,29 @@
+.container-product {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  width: 100%;
+}
+.thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+.thumbnail img {
+  height: 250px;
+  width: 100%;
+  display: block;
+}
+.thumbnail .title-pro a {
+  text-decoration: none;
+  color: var(--primary);
+}
+.thumbnail .title-pro a:hover {
+  text-decoration: underline;
+}
+.thumbnail .price {
+  color: var(--primary);
+  font-weight: 500;
+}
