@@ -2,83 +2,103 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons'
 
 export const listServices = [
 	{
-		content: 'Máy Giặt Electrolux Không Vào Điện',
+		content: 'Màn Hình Tivi Samsung Bị Vỡ',
 		icon: faCheck,
+		href: 'man-hinh-tivi-samsung-bi-vo',
 	},
 	{
-		content: 'Lỗi Máy Giặt Sanyo Cấp Nước Liên Tục, Không Ngắt Nước',
+		content: 'Sửa Tivi Plasma Samsung',
 		icon: faCheck,
+		href: 'sua-tivi-plasma-samsung',
 	},
 	{
-		content: 'Dịch Vụ Sửa Máy Giặt Midea Giá Rẻ, Uy Tín Nhất',
+		content: 'Tivi SamSung Nháy 5 Nhịp',
 		icon: faCheck,
+		href: 'tivi-samsung-nhay-5-nhip',
 	},
 	{
-		content: 'Lỗi F9 Máy Giặt Hitachi',
+		content: 'Sửa Lỗi F25 Máy Giặt Hitachi',
 		icon: faCheck,
+		href: 'sua-loi-f25-may-giat-hitachi',
 	},
 	{
-		content: 'Máy Giặt Samsung Lỗi Không Cấp Nước',
+		content: 'Máy Giặt Bị Lỗi E3',
 		icon: faCheck,
+		href: 'may-giat-bi-loi-e3',
 	},
 	{
-		content: 'Cách Sửa Máy Giặt Không Vắt',
+		content: 'Lỗi Máy Giặt Toshiba A800 Mất Nguồn',
 		icon: faCheck,
+		href: 'loi-may-giat-toshiba-a800-mat-nguon',
 	},
 	{
-		content: 'Lỗi C21 Máy Giặt Toshiba',
+		content: 'Máy Giặt Sanyo Không Lên Nguồn',
 		icon: faCheck,
+		href: 'may-giat-sanyo-khong-len-nguon',
 	},
 	{
-		content: 'Hướng Dẫn Sửa Máy Giặt Toshiba Mất Nguồn Đơn Giản, Hiệu Quả',
+		content: 'Sửa Lỗi U12 Máy Giặt National Tại Nhà',
 		icon: faCheck,
+		href: 'sua-loi-u12-may-giat-national-tai-nha',
 	},
 	{
-		content: '5 nguyên nhân và cách khắc phục máy giặt bị rò nước',
+		content: 'Hướng Dẫn Sửa Bo Mạch Máy Giặt Samsung',
 		icon: faCheck,
+		href: 'huong-dan-sua-bo-mach-may-giat-samsung',
 	},
 	{
-		content: 'Sự cố máy giặt Toshiba không xả nước',
+		content: 'Tổng Hợp Những Lỗi Khiến Máy Giặt Sanyo Không Giặt Được',
 		icon: faCheck,
+		href: 'tong-hop-nhung-loi-khien-may-giat-sanyo-khong-giat-duoc',
 	},
 	{
-		content: 'Báo lỗi H97 của máy giặt national do nước thấm nhà ẩm',
+		content: 'Sửa Board Máy Giặt Electrolux',
 		icon: faCheck,
+		href: 'sua-boadrd-may-giat-electrolux',
 	},
 	{
-		content: 'Sửa Lỗi H97 Máy Giặt Panasonic Nội Địa Như Thế Nào?',
+		content: 'Cách Khắc Phục Nhanh Lỗi Máy Giặt Sanyo Không Cấp Nước',
 		icon: faCheck,
+		href: 'cach-khac-phuc-nhanh-loi-may-giat-sanyo-khong-cap-nuoc',
 	},
 	{
-		content: ' Sửa Màn Hình Tivi Samsung',
+		content: 'Máy Giặt Daewoo Báo Lỗi E9: Cách Xử Lý Tại Nhà',
 		icon: faCheck,
+		href: 'may-giat-deawoo-bao-loi-e9-cach-xu-ly-tai-nha',
 	},
 	{
-		content: 'Máy giặt Daewoo: Bảng mã lỗi và cách khắc phục',
+		content: 'Máy Giặt Toshiba Mắc Lỗi E7: Nguyên Nhân Và Cách Khắc Phục',
 		icon: faCheck,
+		href: 'may-giat-toshiba-mac-loi-e7-nguyen-nhan-va-cach-khac-phuc',
 	},
 	{
-		content: 'Máy giặt Sanyo không xả được nước: Những thông tin cần biết',
+		content: 'Sửa Máy Giặt Beko Giá Rẻ, Uy Tín',
 		icon: faCheck,
+		href: 'sua-may-giac-beko-gia-re-uy-tin',
 	},
 	{
-		content: 'Sửa Tivi Samsung Màn Hình Cong',
+		content: 'Những Lỗi Phổ Biến Và Hướng Dẫn Sửa Máy Giặt Sanyo Tại Nhà',
 		icon: faCheck,
+		href: 'nhung-loi-pho-bien-va-huong-dan-su-dung-may-giat-sanyo-tai-nha',
 	},
 	{
-		content: 'Tivi Samsung Bị Tối Nửa Màn Hình Trên',
+		content: ' Lỗi Máy Giặt Không Xả Nước',
 		icon: faCheck,
+		href: 'loi-may-giac-khong-xa-nuoc',
 	},
 	{
-		content: ' Giá Thay Đèn Led Tivi Samsung Tại Nhà HCM',
+		content: 'Máy Giặt LG Bị Lỗi: 8 Lỗi Thường Gặp',
 		icon: faCheck,
+		href: 'may-giac-lg-bi-loi-8-loi-thuong-gap',
 	},
 	{
-		content: 'Giá Thay Màn Hình Tivi Samsung 55 Inch',
+		content: 'Máy Giặt LG Không Lên Nguồn',
 		icon: faCheck,
+		href: 'may-giat-lg-khong-len-nguon',
 	},
 	{
-		content: 'Sửa Điều Khiển Tivi Samsung',
+		content: 'Nguyên Nhân Máy Giặt Electrolux Kêu To Khi Vắt Thường Gặp',
 		icon: faCheck,
+		href: 'nguyen-nhan-may-giat-electrolux-keu-to-khi-vat-thuong-gap',
 	},
 ]
