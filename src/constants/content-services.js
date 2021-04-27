@@ -72,7 +72,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '6. Hư lò xo giảm xóc',
@@ -151,7 +151,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '2.4. Bộ lọc xơ vải bị tắc',
@@ -164,7 +164,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '2.5. Đường ống thoát nước lắp cao hơn so với máy giặt',
@@ -177,7 +177,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'loi-may-giat-khong-xa-nuoc',
 	},
@@ -228,7 +228,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '2.2. Các lỗi có thể là do máy giặt Electrolux bị hư hỏng ',
@@ -254,7 +254,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '4. Báo giá sửa board máy giặt Electrolux',
@@ -267,7 +267,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'sua-board-may-giat-electrolux',
 	},
@@ -305,7 +305,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '3. Một lỗi thường gặp khác của máy giặt Hitachi',
@@ -318,7 +318,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '4. Điện Máy Xanh - Dịch vụ sửa board máy giặt Electrolux tại nhà nhanh gọn, uy tín',
@@ -335,27 +335,27 @@ export const listContentServices = [
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'sua-loi-f25-may-giat-hitachi',
 	},
@@ -393,7 +393,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '2.1. Kiểm tra áo quần trong lồng giặt',
@@ -406,7 +406,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '2.2. Kiểm tra tình trạng của lồng giặt',
@@ -419,7 +419,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '2.3. Kiểm tra vị trí đặt máy giặt ở nhà bạn',
@@ -432,7 +432,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '2.4. Kiểm tra công tắc công tắc chống rung của máy giặt',
@@ -484,7 +484,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '3. Một số lưu ý cần thiết khi khách hàng tự sửa máy giặt Toshiba A800',
@@ -497,43 +497,43 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content4: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'loi-may-giat-toshiba-a800-mat-nguon',
 	},
@@ -575,7 +575,7 @@ export const listContentServices = [
 		},
 		title3: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content3: {
 			content:
@@ -584,43 +584,43 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content4: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'may-giat-sanyo-khong-len-nguon',
 	},
@@ -659,7 +659,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '3. Một số mã lỗi máy giặt National ',
@@ -676,39 +676,39 @@ export const listContentServices = [
 		},
 		title4: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content4: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'sua-loi-u12-may-giat-national-tai-nha',
 	},
@@ -747,11 +747,11 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content3: {
 			content:
@@ -788,19 +788,19 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'huong-dan-sua-bo-mach-may-giat-samsung',
 	},
@@ -825,7 +825,7 @@ export const listContentServices = [
 		},
 		picture1: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title2: {
 			content: '2. Máy giặt không vào điện',
@@ -838,7 +838,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '3. Máy giặt không cấp nước',
@@ -851,7 +851,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '4. Máy giặt bị kẹt cánh cửa',
@@ -878,7 +878,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '6. Máy giặt kêu to',
@@ -891,7 +891,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'tong-hop-nhung-loi-khien-may-giat-sanyo-khong-giat-duoc',
 	},
@@ -939,11 +939,11 @@ export const listContentServices = [
 		},
 		content3: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '3.1 Lỗi máy giặt kêu to, rung mạnh',
@@ -956,7 +956,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '3.2 Máy giặt không tắt nguồn khi chu trình giặt đã kết thúc',
@@ -969,7 +969,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '3.3 Lỗi máy giặt không thể xả thải',
@@ -982,7 +982,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'cach-khac-phuc-nhanh-loi-may-giat-sanyo-khong-cap-nuoc',
 	},
@@ -1015,11 +1015,11 @@ export const listContentServices = [
 		},
 		content2: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '2.1 Mã lỗi: E2',
@@ -1032,7 +1032,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '2.2 Mã lỗi: E4',
@@ -1045,7 +1045,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '2.3 Mã lỗi: E5, E6',
@@ -1058,7 +1058,7 @@ export const listContentServices = [
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '2.4 Mã lỗi: E7',
@@ -1071,7 +1071,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'may-giat-daewoo-bao-loi-e9-cach-xu-ly-tai-nha',
 	},
@@ -1109,7 +1109,7 @@ export const listContentServices = [
 		},
 		picture2: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title3: {
 			content: '2.1. Sự quá tải về trọng lượng',
@@ -1122,7 +1122,7 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '2.2. Động cơ mất pha',
@@ -1135,7 +1135,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '2.3. Lồng giặt và mâm giặt bị kẹt',
@@ -1161,7 +1161,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'may-giat-toshiba-mac-loi-e7-nguyen-nhan-va-cach-khac-phuc',
 	},
@@ -1204,7 +1204,7 @@ export const listContentServices = [
 		},
 		title3: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content3: {
 			content:
@@ -1213,43 +1213,43 @@ export const listContentServices = [
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content4: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'sua-may-giat-beko-gia-re-uy-tin',
 	},
@@ -1370,7 +1370,7 @@ export const listContentServices = [
 		},
 		picture1: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title2: {
 			content: '2. Vết bẩn xanh',
@@ -1411,7 +1411,7 @@ export const listContentServices = [
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '5. Xơ vải',
@@ -1438,7 +1438,7 @@ export const listContentServices = [
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'may-giat-lg-bi-loi-8-loi-thuong-gap',
 	},
@@ -1480,51 +1480,51 @@ export const listContentServices = [
 		},
 		title3: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content3: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture3: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title4: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content4: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture4: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title5: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content5: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture5: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		title6: {
 			content: '',
-			className: 'title',
+			className: '',
 		},
 		content6: {
 			content: '',
-			className: 'content',
+			className: '',
 		},
 		picture6: {
 			imgUrl: '',
-			className: 'img',
+			className: '',
 		},
 		href: 'may-giat-lg-khong-len-nguon',
 	},
