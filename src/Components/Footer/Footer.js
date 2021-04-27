@@ -90,7 +90,7 @@ export const Footer = () => {
 						{' '}
 						<a href='/'>Bài viết về chúng tôi</a>
 					</div>
-					<div class='panel-body'>
+					<div className='panel-body'>
 						<ul>
 							<li>
 								<a href='/' title='Những lỗi thường gặp của TIVI'>

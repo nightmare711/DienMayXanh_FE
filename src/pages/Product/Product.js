@@ -5,10 +5,9 @@ import './Product.css'
 
 export const Product = () => {
 	return (
-		<div className='Product'>
-			<div className='container-product'>
-				<ProductList list={listSellProduct}></ProductList>
-			</div>
+		<div className='products'>
+			<div className='title'>Products</div>
+			<ProductList list={listSellProduct}></ProductList>
 		</div>
 	)
 }

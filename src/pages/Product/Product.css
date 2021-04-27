@@ -1,1 +1,11 @@
 
+.products {
+}
+.products .title {
+    padding:15px;
+    background-color: var(--primary);
+    color: white;
+    margin-bottom: 20px;
+    font-weight: 600;
+    margin-right: 30px;
+}

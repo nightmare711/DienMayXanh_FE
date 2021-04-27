@@ -1,9 +1,12 @@
 import React from 'react'
-import './contact.css'
+import { Map } from 'google-maps-react'
+import { MapComponent } from 'Components'
+import './Contact.css'
 
 export const Contact = () => {
 	return (
 		<div className='container-contact'>
+			<h1 className='heading-primary'>Liên hệ</h1>
 			<div className='main-contact'>
 				<div className='left-info'>
 					<h3>Điện máy Xanh</h3>
@@ -12,27 +15,27 @@ export const Contact = () => {
 						<div>Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM</div>
 					</div>
 					<div className='sub-content'>
-						<div class='label'>Chi nhánh:</div>
+						<div className='label'>Chi nhánh:</div>
 						<div>Cao ốc A, Ngô Gia Tự, Phường 3, Quận 10, TP HCM</div>
 					</div>
-					<div class='sub-content'>
-						<div class='label'>Tỉnh/TP:</div>
+					<div className='sub-content'>
+						<div className='label'>Tỉnh/TP:</div>
 						<div>TP HCM</div>
 					</div>
-					<div class='sub-content'>
-						<div class='label'>Điên thoại:</div>
+					<div className='sub-content'>
+						<div className='label'>Điên thoại:</div>
 						<a href='www.suachua-dienmayxanh.com'>0123456789</a>
 					</div>
-					<div class='sub-content'>
-						<div class='label'>Hotline:</div>
+					<div className='sub-content'>
+						<div className='label'>Hotline:</div>
 						<a href='www.suachua-dienmayxanh.com'>1900 8889</a>
 					</div>
-					<div class='sub-content'>
-						<div class='label'>E-mail:</div>
+					<div className='sub-content'>
+						<div className='label'>E-mail:</div>
 						<div>suachuadienmayxanh@gmail.com</div>
 					</div>
-					<div class='sub-content'>
-						<div class='label'>Website:</div>
+					<div className='sub-content'>
+						<div className='label'>Website:</div>
 						<a href='www.suachua-dienmayxanh.com'>www.dienmayxanh.com</a>
 					</div>
 				</div>
@@ -61,7 +64,9 @@ export const Contact = () => {
 							cols='30'
 							rows='10'
 							className='form-control'
-							style='height: 80px;'
+							style={{
+								height: '80px',
+							}}
 						></textarea>
 					</div>
 					<button type='button' className='btn btn-sent'>
@@ -69,7 +74,9 @@ export const Contact = () => {
 					</button>
 				</div>
 			</div>
-			<div className='contain-map'></div>
+			<div className='contain-map'>
+				<MapComponent />
+			</div>
 		</div>
 	)
 }

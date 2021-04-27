@@ -11,3 +11,7 @@
     color:white;
     cursor: pointer;
 }
+.navbar .navbar-item a{
+    text-decoration: none;
+    color: white;
+}

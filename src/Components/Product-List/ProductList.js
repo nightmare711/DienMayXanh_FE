@@ -4,8 +4,8 @@ import './ProductList.css'
 export const ProductList = ({ list }) => {
 	return (
 		<div className='container-product'>
-			{list.map((item) => (
-				<div className='thumbnail'>
+			{list.map((item, index) => (
+				<div key={index} className='thumbnail'>
 					<div className='image-pro'>
 						<img src={item.image} alt=''></img>
 					</div>

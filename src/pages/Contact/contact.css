@@ -1,11 +1,17 @@
 .container-contact {
-  font-family: sans-serif;
+  width:100%;
+  border:1px solid var(--primary);
+  margin-right: 30px;
+}
+.container-contact .heading-primary {
+  margin:0;
+  padding:15px;
 }
 .main-contact {
   display: flex;
   flex-direction: row;
   padding: 20px;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 .left-info,
 .right-info {

@@ -1,0 +1,44 @@
+.posts-page {
+    border: 1px solid var(--primary);
+    margin-right: 30px;
+    font-size: 15px;
+}
+.heading-primary {
+    padding:15px;
+    background-color: var(--primary);
+    color:white;
+    font-weight: 600;
+    font-size: 16px;
+}
+.posts-page .list-posts {
+    padding:20px;
+}
+.posts-page .header {
+    font-size:20px;
+    font-weight: 600;
+    color: var(--primary);
+}
+.posts-page .head-title {
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    margin: 7px 0px;
+}
+.posts-page .title {
+    font-weight: 600;
+    margin:7px 0px;
+}
+.posts-page img {
+    width:100%;
+    margin: 10px 0px;
+}
+.posts-page .content {
+    margin:10px 0px;
+}
+.posts-page .footer {
+    display: flex;
+    flex-direction: column;
+}
+.posts-page .footer span {
+    margin-top:10px;
+}

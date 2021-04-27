@@ -8,8 +8,8 @@ export const News = ({ list, title }) => {
 		<div className='card-list news'>
 			<div className='heading'>{title}</div>
 			<ul className='list'>
-				{list.map((item) => (
-					<li className='item'>
+				{list.map((item, index) => (
+					<li key={index} className='item'>
 						<img src={item.image} alt='' />
 						<div className='txt-frame'>
 							<span className='title'>{item.title}</span>
@@ -18,7 +18,7 @@ export const News = ({ list, title }) => {
 								{item.date}
 							</span>
 							<span>{item.content}</span>
-							<div onCLick={() => window.open(item.href, '_blank')} className='news-detail'>
+							<div onClick={() => window.open(item.href, '_blank')} className='news-detail'>
 								Xem chi tiết <b>{'>'}</b>
 							</div>
 						</div>
