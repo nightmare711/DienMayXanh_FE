@@ -1528,4 +1528,358 @@ export const listContentServices = [
 		},
 		href: 'may-giat-lg-khong-len-nguon',
 	},
+	{
+		header: {
+			content: 'TIVI SAMSUNG NHÁY 5 NHỊP',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây Điện Máy Minh sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
+			className: 'head-title',
+		},
+		title1: {
+			content:
+				'Khi nào bạn cần phải gọi ngay cho chúng tôi- dịch vụ sửa tivi samsung giá rẻ tại nhà?',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Khi tivi nhà bạn có hiện tượng tối màn hình, tối một phần hoặc tối toàn bộ màn hình. Hình ảnh bị nhòe màu, chữ bị đứt nét. Màn hình tivi xuất hiện các đường sọc ngang hoặc dọc ban đầu nhạt dần đậm dẫn đến không thấy rõ hình ảnh. Hình ảnh bị bóng, chồng hình lên nhau. Tivi có tiếng kêu lạch cạch do rơ le bị hỏng. Tivi không phát ra âm thanh chỉ có hình ảnh hoặc ngược lại. Hình ảnh và âm thanh không đồng bộ. Tivi khởi động không lên. Tivi khởi động chậm.Tivi khởi động lên rồi đột ngột tắt. Tivi không nhận được tín hiệu kết nối. Tivi không nhận được tin hiệu điều khiển từ xa. Tivi bị rơi vỡ, hoặc hư hỏng do tác động bên ngoài, Rớt, sét đánh, …Bị nhiễu nước do mưa hoặc quá trình vệ sinh, lau chùi sai cách',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: '',
+			className: '',
+		},
+		title2: {
+			content: 'Trung tâm sửa chữa- Bảo hành Dịch Vụ Sửa Chữa Tivi Samsung Điện Máy Xanh',
+			className: 'title',
+		},
+		content2: {
+			content:
+				'sẵn sàng đáp ứng mọi yêu cầu của khách hàng, dù là tivi nhà bạn gặp bất cứ vấn đề gì từ đơn giản đến phức tạp chúng tôi đều đáp ứng được. Nhờ đội ngũ nhân viên kĩ thuật có tay nghề cao, có nhiều năm kinh nghiệm trong ngành điện lạnh, đã khắc phục hư hỏng cho hàng ngàn chiếc Tivi trên địa bàn TP.HCM và các quận huyện lân cận. Dịch Vụ Sửa Chữa Tivi Samsung  Điện Máy Minh luôn đặt uy tín và niềm tin của khách hàng lên hàng đầu. Đảm bảo khách hàng sẽ hài lòng khi tin tưởng dịch vụ của chúng tôi. Không những thế, đến với Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ chiếc tivi nhà bạn nhanh chóng được sửa chữa, hoạt động ổn định bình thường, y như mới. Những linh kiện cần được thay thế trong quá trình sửa chữa đều là những linh kiện chính hãng và được bảo hành dài hạn. Nhân viên làm việc nhiệt tình, chu đáo và vui vẻ. Và đặc biệt, mức phí tại Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ là mức phí cạnh tranh trên thị trường hiện nay.',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content: '',
+			className: '',
+		},
+		content3: {
+			content: '',
+			className: '',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: '',
+			className: '',
+		},
+		content4: {
+			content: '',
+			className: '',
+		},
+		picture4: {
+			imgUrl: '',
+			className: '',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'tivi-samsung-nhay-5-nhip',
+	},
+	{
+		header: {
+			content: 'DỊCH VỤ SỬA MÁY GIẶT QUẬN 1',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Điện Máy Minh sửa máy giặt tại quận 1 TP.HCM, úy tín và kinh nghiệm 20 năm, khắc phục các sự cố khó nhất cho các dòng máy giặt trên thị trường, kể cả các dòng máy nội địa, nhập khẩu qua đường tiểu ngạch',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Sửa nhanh, sửa triệt để máy giặt tại quận 1 Hồ Chí Minh',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Đa số máy giặt có cấu tạo tương đối phức tạp vì là sự kết hợp giữa các chuyển động cơ học lẫn các vi mạch điện tử nên việc tìm nguyên nhân và khắc phục sự cố nhanh là vấn đề tiên quyết trong việc khẳng định chất lượng dịch vụ của nhà cung cấp. Thêm vào đó, Dịch Vụ Sửa Máy Giặt Quận 1 Điện Máy Minh Hồ Chí Minh còn có mạng lưới rộng khắp Hồ Chí Minh lên tới 10 trung tâm nhằm giải quyết nhanh nhất việc di chuyển tới nhà của bạn. Vì vậy, quý khách hoàn toàn không phải lo lắng về việc phải chờ đợi thời gian sửa chữa tại nhà quý khách. Trong 1 số tình huống hi hữu, các pan bệnh hỏng cần khắc phục liên quan tới các thiết bị kiểm thử khó di chuyển thì trung tâm hỗ trợ miễn phí việc di dời thiết bị của bạn tới trung tâm để kiểm tra, chuẩn đoán và khắc phục bệnh của máy giặt. Để đảm bảo độ trung thực, trước khi di chuyển máy giặt, chúng tôi thực hiện ghi biên bản rõ ràng tình trạng, đời máy để việc bàn giao lại không bị thay thế các linh kiện gốc của máy giặt không bị hỏng hóc. Với bất kỳ thắc mắc nào cần tư vấn, trung tâm có số hotline 0935.55.88.33,  trực 24/7, bạn sẽ được tư vấn và giải đáp rõ ràng, kể cả với các tình huống sử dụng mà không cần phải là khách hàng của chúng tôi.',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: '',
+			className: '',
+		},
+		title2: {
+			content: 'Dịch vụ sửa chữa máy giặt ở Hồ Chí Minh giá tốt nhất',
+			className: 'title',
+		},
+		content2: {
+			content:
+				'Giá dịch vụ cuối cùng của trung tâm dựa trên các hạng mục chúng tôi thực hiện để khắc phục xong các lỗi của máy giặt của bạn, thông thường bao gồm: giá linh kiện thay thế và giá dịch vụ sửa chữa. Giá dịch vụ sửa chữa máy giặt của trung tâm đang là cạnh tranh nhất. Để quý khách hàng yên tâm về chính sách giá, sự minh bạch trong nghiệm thu, bàn giao và sự chăm sóc khách hàng sau sửa chữa, trung tâm có 3 quy trình dịch vụ được kiểm soát chặt chẽ như sau: Thực hiện báo giá dịch vụ và linh kiện thay thế trước khi sửa chữa. Gồm cả các tư vấn lựa chọn linh kiện để giảm giá thành nhưng vẫn đảm bảo chất lượng. Kiểm tra hóa đơn nội bộ và xin ý kiến khách hàng nhằm đảm bảo nhân viên của trung tâm trung thực không tự ý tăng giá dịch vụ. Đường dây hotline 24/7 tiếp nhận ý kiến phản hồi của khách hàng. Mặt khác, trung tâm KHÔNG tính phí di chuyển tới nhà bạn, KHÔNG tính phí kiểm tra nếu không thực hiện sửa chữa, KHÔNG tính phí vận chuyển nếu máy giặt có lỗi cần phải sử dụng các máy móc tại trung tâm. Vậy nên, bạn hoàn toàn yên tâm về giá thành cả khi chúng tôi sửa chữa máy giặt tại nhà hay phải di chuyển về Trung tâm Điện Máy Minh Hồ Chí Minh.',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content: 'Bảo hành dịch vụ sửa máy giặt dài hạn',
+			className: 'title',
+		},
+		content3: {
+			content:
+				'Bảo hành dịch vụ chính là yếu tố then chốt khẳng định chất lượng dịch vụ sửa máy giặt của trung tâm. Khi thực hiện chuẩn đoán và sửa chữa, bằng kinh nghiệm, chúng tôi có thể biết được vì nguyên nhân thói quen chủ quan hay nguyên nhân khách quan nào khác mà máy giặt của bạn gặp lỗi. Và vì thế trung tâm sẽ thực hiện tư vấn cặn kẽ để bạn không phải thường xuyên mệt mỏi phải gọi dịch vụ sửa chữa máy giặt tại nhà. Cơ sở đó là điều kiện tiên quyết để có thể bảo hành được dịch vụ 1 cách dài hạn nhất. Các bạn lưu ý, bảo hành dịch vụ khi trung tâm thay thế linh kiện của trung tâm thì sẽ bao gồm cả việc bảo hành dịch vụ lẫn linh kiện.',
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: '7 lý do bạn nên chọn Điện Máy Minh để sửa máy giặt ngay hôm nay',
+			className: 'title',
+		},
+		content4: {
+			content:
+				'Kinh nghiệm lâu năm trong nghề đã được khẳng định trên thị trường Hồ Chí Minh. Khả năng khắc phục nhanh và triệt để các pan bệnh khó nhất (kể cả các dòng máy hiếm gặp). Đội ngũ kỹ thuật viên thường xuyên được đào tạo nâng cao tay nghề hoặc kiểm tra chất lượng để thanh lọc nhân sự yếu kém tại trung tâm điện lạnh hàng đầu Hồ Chí Minh. Quy trình dịch vụ rõ ràng, chặt chẽ. Tách biệt dịch vụ sửa chữa máy giặt và linh kiện thay thế nếu có. Nhận dịch vụ sửa chữa nếu bạn tự mua các linh kiện nhưng không có khả năng thay thế. Tư vấn tỉ mỉ, dịch vụ hậu mãi sau bán hàng uy tín, luôn biết lắng nghe ý kiến khách hàng',
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: '',
+			className: '',
+		},
+		title5: {
+			content: 'Một số lưu ý và tư vấn để bạn ít phải gọi dịch vụ sửa máy giặt hơn',
+			className: 'title',
+		},
+		content5: {
+			content:
+				'Không để máy giặt ở chỗ ẩm thấp, có ánh sáng mặt trời chiếu trực tiếp và bị nước mưa chảy trực tiếp. Xem các rắc cắm tiếp xúc ổ điện cần chắc chắn. Không giặt quá cân, đồ cứng. Tạo thói quen kiểm tra các túi quần áo để đảm bảo không có vật cứng trong đó (điện thoại, ví,...). Gạn các bùn đất dày (nếu có) trên quần áo trước khi đưa vào máy giặt. Đọc hướng dẫn sử dụng kèm theo máy giặt để biết các lưu ý đặc thù cho mỗi máy. Với các máy giặt thông minh, nếu bạn không chắn chắn về tiến trình, nên chọn chế độ tự động. Kiểm tra nguồn nước vào máy thường xuyên, đảm bảo đủ mạnh để quá trình vận hành của máy không bị kéo dài thường xuyên.',
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'dich-vu-sua-may-giat-quan-1',
+	},
+	{
+		header: {
+			content: 'MÀN HÌNH TIVI SAMSUNG BỊ VỠ',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Với 13 năm hoạt động sửa tivi và thay màn hình tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện Máy Minh sẽ phát triển hơn nữa.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Gía Thay Màn Hình Samsung Gá Bao Nhiêu ',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Giá thay màn hình tivi samsung 32 inch dao động từ 1.500.000 – 2.500.000. Giá thay màn hình tivi samsung 39 inch dao động từ 2.500.000 – 4.300.000. Giá thay màn hình tivi samsung 40 inch dao động từ 2.200.000 – 4.100.000. Giá thay màn hình tivi samsung 42 inch dao động từ 2.300.000 – 4.200.000. Giá thay màn hình tivi samsung 43 inch dao động từ 2.500.000 – 4.300.000. Giá thay màn hình tivi samsung 48 inch dao động từ 3.600.000 – 5.600.000. Giá thay màn hình tivi samsung 49 inch dao động từ 3.600.000 – 6.200.000. Giá thay màn hình tivi samsung 51 inch dao động từ 3.800.000 – 6.000.000. Giá thay màn hình tivi samsung 55 inch dao động từ 4.500.000 – 7.200.000. Giá thay màn hình tivi samsung 65 inch dao động từ 7.800.000 – 12.300.000. Giá thay màn hình tivi samsung 75 inch dao động từ 11.300.000 – 15.800.000. Giá màn hình lớn từ 75-98 inch liên hệ 039.75.75.917',
+			className: 'content1',
+		},
+		picture1: {
+			imgUrl: '',
+			className: '',
+		},
+		title2: {
+			content: '',
+			className: '',
+		},
+		content2: {
+			content:
+				'Hiện nay, trên thị trường đang có hai loại màn hình tivi Samsung phổ biến: loại màn chính hãng và loại hàng lô. Giá thay màn hình tivi Samsung chính hãng khá đắt, vd màn 32 inch dao động từ 2-3 triệu đồng tuỳ theo model máy. Trong khi đó, giá màn hình Samsung lô đang được các cá nhân đơn vị dịch vụ chào mời với giá rất rẻ, chỉ từ 900 – 1 triệu 200 ngàn đồng. Vậy hai loại màn này có gì khác nhau mà giá cả lại chênh lệch nhiều như vậy?',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content: '',
+			className: '',
+		},
+		content3: {
+			content:
+				'Màn hình Samsung chính hãng: là hàng do công ty Samsung sản xuất và phân phối ra thị trường, có chế độ bảo hành chính hãng, màn hình có độ sắc nét cao, giống hệt như màn hình tivi đã hỏng của loại tivi mà quý khách hàng đang sử dụng; chất lượng tốt, độ bền cao. Màn hình Samsung lô: hầu hết có nguồn gốc xuất xứ từ Trung Quốc, có nhiều loại để cho khách hàng lựa chọn, chất lượng hinh ảnh thường không được sắc nét như màn hình tivi ban đầu, thời gian bảo hành ngắn, thường chỉ từ 1-3 tháng tuỳ từng loại, giá thành rẻ, chi phí thay thế thấp, độ bền thường khá thấp. Như vậy, khi lựa chọn thay thế màn hình tivi, khách hàng cần tỉnh táo, lựa chọn đơn vị uy tín, chất lượng, chuyên nghiệp để được thay thế màn hình tốt, chất lượng với giá thành hợp lý.',
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: 'Địa chỉ thay thế màn hình tivi Samsung uy tín tại Hồ Chí Minh',
+			className: 'title',
+		},
+		content4: {
+			content:
+				'Trung tâm chúng tôi chuyên cung cấp dịch vụ sửa chữa tivi tận nhà uy tín, chất lượng tại Hồ Chí Minh, được khách hàng đánh giá cao. Chúng tôi nhận sửa chữa mọi lỗi thường gặp đối với tất cả các chủng loại tivi có trên thị trường hiện nay. Nhận thay màn hình tivi Samsung chính hãng, giá tốt nhất trên địa bàn Hồ Chí Minh. Nếu lỗi màn hình tivi Samsung của khách hàng vẫn có thể sửa chữa được, chúng tôi sẽ lấy phí sửa chữa rẻ hơn thị trường. Nếu màn hình của khách hàng cần thay thế, chúng tôi cam kết hàng chính hãng, báo đúng lỗi, sửa đúng giá. Chúng tôi có đội ngũ thợ kỹ thuật giỏi, được đào tạo bài bản, có kinh nghiệm lâu năm trong nghề, thường xuyên được đào tạo, bồi dưỡng để nâng cao tay nghề, cập nhật các đời tivi mới nhất hiện nay. Chúng tôi cung cấp dịch vụ sửa chữa tivi tại nhà đối với quý khách hàng không có điều kiện mang tivi đến trực tiếp cửa hàng để sửa chữa. Đặc biệt, chúng tôi miễn phí kiểm tra, tư vấn, báo giá sửa chữa tại nhà. Quý khách có thể từ chối sửa chữa nếu cảm thấy mức giá chúng tôi đưa ra chưa hợp lý mà không phải trả bất kỳ chi phí nào. Liên hệ ngay với chúng tôi theo số Hotline khi có nhu cầu sửa chữa, thay thế màn hình tivi Samsung chính hãng với giá tốt nhất! Cam kết có mặt ngay sau 30 phút nhận được yêu cầu cho dù bạn ở bất kỳ địa chỉ nào trên địa bàn Hồ Chí Minh !',
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: '',
+			className: '',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'man-hinh-tivi-samsung-bi-vo',
+	},
+	{
+		header: {
+			content: 'SỬA TIVI PLASMA SAMSUNG',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Dịch vụ sửa tivi Samsung Plasma tại nhà với đội ngũ thợ chuyên nghiệp, phục vụ nhanh chóng, nhiệt tình, kiểm tra tivi miễm phí, báo giá trước khi sửa, thay thế linh kiện chính hãng.',
+			className: 'head-title',
+		},
+		title1: {
+			content: 'Những lỗi thường gặp trên tivi Samsung nguyên nhân và cách khắc phục',
+			className: 'title',
+		},
+		content1: {
+			content:
+				'Trong quá trình bạn sử dụng tivi, có thể sẽ gặp một số những sự cố ngoài ý muốn. Một số lỗi trong đó bạn có thể tự khắc phục mà không cần phải tìm thợ sửa tivi samsung tại nhà.				',
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: '',
+			className: '',
+		},
+		title2: {
+			content:
+				'Hiện tượng: Xuất hiện các chấm đen nhỏ trên màn hình và không bị thay đổi hay mất đi mỗi khi người dùng thay đổi độ sáng.',
+			className: 'title',
+		},
+		content2: {
+			content:
+				'Lỗi này có thể đến từ nhà sản xuất (nếu như tivi mới mua).Tivi, nhất là màn hình tivi bị va đập trong quá trình tháo lắp. Do sử dụng một thời gian dài tivi có thể bị lỗi này, tỉ lệ này rất ít. Cách khắc phục: Lấy một chiếc khăn mềm, lau nhẹ vào các điểm chết để xác nhận đó là vết bẩn hay là điểm chết thật sự. Gọi thợ sửa tivi nếu việc lau màn hình không đem lại kết quả.',
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: '',
+			className: '',
+		},
+		title3: {
+			content: 'Tivi có tiếng màn hình tối đen nhìn kỹ vẫn thấy hình',
+			className: 'title',
+		},
+		content3: {
+			content: 'Nguyên nhân: Do hỏng đèn LED hoặc cao áp, mất nguồn cấp cho board cao áp.',
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: 'Có nốt đen to nứt trên màn hình',
+			className: 'title',
+		},
+		content4: {
+			content:
+				'Nguyên nhân: Do va đập màn hình trong quá trình tháo lắp vận chuyển. Có bộ phận nào đó bị rơi ra ngoài gây ra vỡ điểm màu của màn hình tivi. Cách khắc phục: Trong trường hợp tivi bị vỡ thì bắt buộc phải thay màn hình giá thay màn bằng khoảng 60% giá trị máy hoặc gửi đến hãng để bảo hành nếu là do lỗi của nhà sản xuất.',
+			className: 'content',
+		},
+		picture4: {
+			imgUrl: '',
+			className: '',
+		},
+		title5: {
+			content: 'Tivi không thể kết nối được với mạng Internet',
+			className: 'content',
+		},
+		content5: {
+			content:
+				'Cách khắc phục: Khi tivi Samsung không thể kết nối được với Internet, hãy thao tác theo hướng dẫn như dưới đây: Khi bảng thông báo trên màn hình tivi có dấu X từ tivi tới moderm có nghĩa là tivi của bạn chưa được kết nối với moderm, bạn hãy kiểm tra lại dây kết nối, moderm wifi. Khi bảng thông báo có dấu X từ moderm tới quả địa cầu, tivi đã được kết nối với moderm nhưng không nhận địa chỉ IP, bạn cần cài đặt lại IP thủ công. Để cài đặt IP thủ công, nên kết nối cáp LAN vào laptop hay máy tính để kiểm tra các thông số như IP Adress, DNS server, Subnet Mask, Gateway rồi nhập thủ công vào tivi.',
+			className: 'content',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: 'Màn hình sáng không đều',
+			className: 'title',
+		},
+		content6: {
+			content:
+				'Hiện tượng: màn hình bị tối nửa trên/dưới/trái/phải/ giữa hoặc có các chỗ tối nằm bất kỳ chỗ nào ở màn hình. Nguyên nhân: Do hỏng đèn LED cần gọi thợ chuyên nghiệp để thay, có một số khách hàng tự thay và đã làm vỡ màn hình trong quá trình tháo lắp sau đó gọi thợ thanh lý tivi.',
+			className: 'content',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-tivi-plasma-samsung',
+	},
 ]
