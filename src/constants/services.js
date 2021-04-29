@@ -74,7 +74,7 @@ export const listServices = [
 	{
 		content: 'Sửa Máy Giặt Beko Giá Rẻ, Uy Tín',
 		icon: faCheck,
-		href: 'sua-may-giac-beko-gia-re-uy-tin',
+		href: 'sua-may-giat-beko-gia-re-uy-tin',
 	},
 	{
 		content: 'Những Lỗi Phổ Biến Và Hướng Dẫn Sửa Máy Giặt Sanyo Tại Nhà',
@@ -84,12 +84,12 @@ export const listServices = [
 	{
 		content: ' Lỗi Máy Giặt Không Xả Nước',
 		icon: faCheck,
-		href: 'loi-may-giac-khong-xa-nuoc',
+		href: 'loi-may-giat-khong-xa-nuoc',
 	},
 	{
 		content: 'Máy Giặt LG Bị Lỗi: 8 Lỗi Thường Gặp',
 		icon: faCheck,
-		href: 'may-giac-lg-bi-loi-8-loi-thuong-gap',
+		href: 'may-giat-lg-bi-loi-8-loi-thuong-gap',
 	},
 	{
 		content: 'Máy Giặt LG Không Lên Nguồn',

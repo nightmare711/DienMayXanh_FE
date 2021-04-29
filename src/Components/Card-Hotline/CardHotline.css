@@ -1,17 +1,23 @@
 .card-hotline {
 
 }
+.card-hotline .list .item:hover {
+    background-color: white;
+    color:black;
+}
 .card-hotline .list .item {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     font-size: 17px;
+    cursor: default;
 }
 
 .card-hotline .list .item .child {
     font-size: 17px;
     transition:all .5s;
     color: var(--primary);
+    cursor: default;
 }
 .card-hotline .list .item .child .icon {
     font-size: 15px;;
@@ -23,4 +29,7 @@
 }
 .card-hotline  .list .item:hover .child {
     color:white;
+}
+.card-hotline .child-txt a:hover{
+    text-decoration: underline;
 }

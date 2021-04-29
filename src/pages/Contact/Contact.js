@@ -1,4 +1,5 @@
 import React from 'react'
+import { SimpleMap } from 'Components'
 import './Contact.css'
 
 export const Contact = () => {
@@ -72,16 +73,8 @@ export const Contact = () => {
 					</button>
 				</div>
 			</div>
-			<div className='contain-map'>
-				<iframe
-					title='Map'
-					width='600'
-					height='450'
-					loading='lazy'
-					allowfullscreen
-					src='https://www.google.com/maps/embed/v1/place?key=AIzaSyADXWEpFk6amxWr7W_x-fbPQt_0HohGVSw
-    &q=Space+Needle,Seattle+WA'
-				></iframe>
+			<div className='container-map'>
+				<SimpleMap />
 			</div>
 		</div>
 	)

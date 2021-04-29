@@ -1,0 +1,16 @@
+.scroll-button {
+    width:35px;
+    height:35px;
+    border-radius: 50%;
+    background-color: var(--primary);
+    color:white;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}

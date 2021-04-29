@@ -1,14 +1,26 @@
-import { Map, GoogleApiWrapper } from 'google-maps-react'
-export const MapComponent = (props) => {
+import React from 'react'
+import GoogleMapReact from 'google-map-react'
+
+const AnyReactComponent = ({ text }) => <div>{text}</div>
+
+export const SimpleMap = () => {
+	const [defaultProps] = React.useState({
+		center: {
+			lat: 59.95,
+			lng: 30.33,
+		},
+		zoom: 11,
+	})
+
 	return (
-		<iframe
-			title='Map'
-			width='600'
-			height='450'
-			loading='lazy'
-			allowfullscreen
-			src='https://www.google.com/maps/embed/v1/place?key=AIzaSyCakxLYJKfOu9llBGECqiRCksMBYO1k9EM
-    &q=Space+Needle,Seattle+WA'
-		></iframe>
+		<div style={{ height: '500px', width: '100%' }}>
+			<GoogleMapReact
+				bootstrapURLKeys={{ key: 'AIzaSyDugWtdHDD6Lof6JSpKkKrxYDttqcFb55Y' }}
+				defaultCenter={defaultProps.center}
+				defaultZoom={defaultProps.zoom}
+			>
+				<AnyReactComponent lat={59.955413} lng={30.337844} text='My Marker' />
+			</GoogleMapReact>
+		</div>
 	)
 }

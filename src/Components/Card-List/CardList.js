@@ -10,7 +10,11 @@ export const CardList = ({ list, title }) => {
 				{list.map((item, index) => (
 					<li key={index} className='item'>
 						<FontAwesomeIcon className='icon' icon={item.icon} />
-						<span>{item.content}</span>
+						{item.href ? (
+							<a href={`/posts/${item.href}`}>{item.content}</a>
+						) : (
+							<span>{item.content}</span>
+						)}
 					</li>
 				))}
 			</ul>

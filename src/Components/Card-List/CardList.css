@@ -29,6 +29,11 @@
     transition: all .4s;
     cursor: pointer;
 }
+.card-list .list .item:hover{}
+.card-list .list .item  a{
+    text-decoration: none;
+    color: var(--primary) !important;
+}
 .card-list .list .item:hover {
     background-color: var(--primary);
     color:white;
@@ -38,4 +43,5 @@
 }
 .card-list .list .item .icon {
     margin-right: 20px;
+    color: var(--primary);
 }
