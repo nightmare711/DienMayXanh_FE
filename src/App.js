@@ -13,6 +13,7 @@ import {
 	ContainerContent,
 	ScrollButton,
 	PhoneCall,
+	SocialMedia,
 } from 'Components'
 import { Product, PostsPage, Contact } from 'pages'
 import { Switch, Route } from 'react-router-dom'
@@ -24,6 +25,7 @@ function App() {
 	return (
 		<div className='App'>
 			<PhoneCall />
+			<SocialMedia />
 			<ScrollButton />
 			<Hotline />
 			<Logo />
