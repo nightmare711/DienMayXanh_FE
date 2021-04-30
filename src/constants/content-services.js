@@ -1535,7 +1535,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây Điện Máy Minh sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
+				'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây Điện Máy Xanh sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
 			className: 'head-title',
 		},
 		title1: {
@@ -1558,7 +1558,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content:
-				'sẵn sàng đáp ứng mọi yêu cầu của khách hàng, dù là tivi nhà bạn gặp bất cứ vấn đề gì từ đơn giản đến phức tạp chúng tôi đều đáp ứng được. Nhờ đội ngũ nhân viên kĩ thuật có tay nghề cao, có nhiều năm kinh nghiệm trong ngành điện lạnh, đã khắc phục hư hỏng cho hàng ngàn chiếc Tivi trên địa bàn TP.HCM và các quận huyện lân cận. Dịch Vụ Sửa Chữa Tivi Samsung  Điện Máy Minh luôn đặt uy tín và niềm tin của khách hàng lên hàng đầu. Đảm bảo khách hàng sẽ hài lòng khi tin tưởng dịch vụ của chúng tôi. Không những thế, đến với Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ chiếc tivi nhà bạn nhanh chóng được sửa chữa, hoạt động ổn định bình thường, y như mới. Những linh kiện cần được thay thế trong quá trình sửa chữa đều là những linh kiện chính hãng và được bảo hành dài hạn. Nhân viên làm việc nhiệt tình, chu đáo và vui vẻ. Và đặc biệt, mức phí tại Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ là mức phí cạnh tranh trên thị trường hiện nay.',
+				'sẵn sàng đáp ứng mọi yêu cầu của khách hàng, dù là tivi nhà bạn gặp bất cứ vấn đề gì từ đơn giản đến phức tạp chúng tôi đều đáp ứng được. Nhờ đội ngũ nhân viên kĩ thuật có tay nghề cao, có nhiều năm kinh nghiệm trong ngành điện lạnh, đã khắc phục hư hỏng cho hàng ngàn chiếc Tivi trên địa bàn TP.HCM và các quận huyện lân cận. Dịch Vụ Sửa Chữa Tivi Samsung  Điện Máy Xanh luôn đặt uy tín và niềm tin của khách hàng lên hàng đầu. Đảm bảo khách hàng sẽ hài lòng khi tin tưởng dịch vụ của chúng tôi. Không những thế, đến với Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ chiếc tivi nhà bạn nhanh chóng được sửa chữa, hoạt động ổn định bình thường, y như mới. Những linh kiện cần được thay thế trong quá trình sửa chữa đều là những linh kiện chính hãng và được bảo hành dài hạn. Nhân viên làm việc nhiệt tình, chu đáo và vui vẻ. Và đặc biệt, mức phí tại Dịch Vụ Sửa Chữa Điện Máy Giá Rẻ là mức phí cạnh tranh trên thị trường hiện nay.',
 			className: 'content',
 		},
 		picture2: {
@@ -1622,7 +1622,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Điện Máy Minh sửa máy giặt tại quận 1 TP.HCM, úy tín và kinh nghiệm 20 năm, khắc phục các sự cố khó nhất cho các dòng máy giặt trên thị trường, kể cả các dòng máy nội địa, nhập khẩu qua đường tiểu ngạch',
+				'Điện Máy Xanh sửa máy giặt tại quận 1 TP.HCM, úy tín và kinh nghiệm 20 năm, khắc phục các sự cố khó nhất cho các dòng máy giặt trên thị trường, kể cả các dòng máy nội địa, nhập khẩu qua đường tiểu ngạch',
 			className: 'head-title',
 		},
 		title1: {
@@ -1631,7 +1631,7 @@ export const listContentServices = [
 		},
 		content1: {
 			content:
-				'Đa số máy giặt có cấu tạo tương đối phức tạp vì là sự kết hợp giữa các chuyển động cơ học lẫn các vi mạch điện tử nên việc tìm nguyên nhân và khắc phục sự cố nhanh là vấn đề tiên quyết trong việc khẳng định chất lượng dịch vụ của nhà cung cấp. Thêm vào đó, Dịch Vụ Sửa Máy Giặt Quận 1 Điện Máy Minh Hồ Chí Minh còn có mạng lưới rộng khắp Hồ Chí Minh lên tới 10 trung tâm nhằm giải quyết nhanh nhất việc di chuyển tới nhà của bạn. Vì vậy, quý khách hoàn toàn không phải lo lắng về việc phải chờ đợi thời gian sửa chữa tại nhà quý khách. Trong 1 số tình huống hi hữu, các pan bệnh hỏng cần khắc phục liên quan tới các thiết bị kiểm thử khó di chuyển thì trung tâm hỗ trợ miễn phí việc di dời thiết bị của bạn tới trung tâm để kiểm tra, chuẩn đoán và khắc phục bệnh của máy giặt. Để đảm bảo độ trung thực, trước khi di chuyển máy giặt, chúng tôi thực hiện ghi biên bản rõ ràng tình trạng, đời máy để việc bàn giao lại không bị thay thế các linh kiện gốc của máy giặt không bị hỏng hóc. Với bất kỳ thắc mắc nào cần tư vấn, trung tâm có số hotline 0935.55.88.33,  trực 24/7, bạn sẽ được tư vấn và giải đáp rõ ràng, kể cả với các tình huống sử dụng mà không cần phải là khách hàng của chúng tôi.',
+				'Đa số máy giặt có cấu tạo tương đối phức tạp vì là sự kết hợp giữa các chuyển động cơ học lẫn các vi mạch điện tử nên việc tìm nguyên nhân và khắc phục sự cố nhanh là vấn đề tiên quyết trong việc khẳng định chất lượng dịch vụ của nhà cung cấp. Thêm vào đó, Dịch Vụ Sửa Máy Giặt Quận 1 Điện Máy Xanh Hồ Chí Minh còn có mạng lưới rộng khắp Hồ Chí Minh lên tới 10 trung tâm nhằm giải quyết nhanh nhất việc di chuyển tới nhà của bạn. Vì vậy, quý khách hoàn toàn không phải lo lắng về việc phải chờ đợi thời gian sửa chữa tại nhà quý khách. Trong 1 số tình huống hi hữu, các pan bệnh hỏng cần khắc phục liên quan tới các thiết bị kiểm thử khó di chuyển thì trung tâm hỗ trợ miễn phí việc di dời thiết bị của bạn tới trung tâm để kiểm tra, chuẩn đoán và khắc phục bệnh của máy giặt. Để đảm bảo độ trung thực, trước khi di chuyển máy giặt, chúng tôi thực hiện ghi biên bản rõ ràng tình trạng, đời máy để việc bàn giao lại không bị thay thế các linh kiện gốc của máy giặt không bị hỏng hóc. Với bất kỳ thắc mắc nào cần tư vấn, trung tâm có số hotline 0935.55.88.33,  trực 24/7, bạn sẽ được tư vấn và giải đáp rõ ràng, kể cả với các tình huống sử dụng mà không cần phải là khách hàng của chúng tôi.',
 			className: 'content',
 		},
 		picture1: {
@@ -1644,7 +1644,7 @@ export const listContentServices = [
 		},
 		content2: {
 			content:
-				'Giá dịch vụ cuối cùng của trung tâm dựa trên các hạng mục chúng tôi thực hiện để khắc phục xong các lỗi của máy giặt của bạn, thông thường bao gồm: giá linh kiện thay thế và giá dịch vụ sửa chữa. Giá dịch vụ sửa chữa máy giặt của trung tâm đang là cạnh tranh nhất. Để quý khách hàng yên tâm về chính sách giá, sự minh bạch trong nghiệm thu, bàn giao và sự chăm sóc khách hàng sau sửa chữa, trung tâm có 3 quy trình dịch vụ được kiểm soát chặt chẽ như sau: Thực hiện báo giá dịch vụ và linh kiện thay thế trước khi sửa chữa. Gồm cả các tư vấn lựa chọn linh kiện để giảm giá thành nhưng vẫn đảm bảo chất lượng. Kiểm tra hóa đơn nội bộ và xin ý kiến khách hàng nhằm đảm bảo nhân viên của trung tâm trung thực không tự ý tăng giá dịch vụ. Đường dây hotline 24/7 tiếp nhận ý kiến phản hồi của khách hàng. Mặt khác, trung tâm KHÔNG tính phí di chuyển tới nhà bạn, KHÔNG tính phí kiểm tra nếu không thực hiện sửa chữa, KHÔNG tính phí vận chuyển nếu máy giặt có lỗi cần phải sử dụng các máy móc tại trung tâm. Vậy nên, bạn hoàn toàn yên tâm về giá thành cả khi chúng tôi sửa chữa máy giặt tại nhà hay phải di chuyển về Trung tâm Điện Máy Minh Hồ Chí Minh.',
+				'Giá dịch vụ cuối cùng của trung tâm dựa trên các hạng mục chúng tôi thực hiện để khắc phục xong các lỗi của máy giặt của bạn, thông thường bao gồm: giá linh kiện thay thế và giá dịch vụ sửa chữa. Giá dịch vụ sửa chữa máy giặt của trung tâm đang là cạnh tranh nhất. Để quý khách hàng yên tâm về chính sách giá, sự minh bạch trong nghiệm thu, bàn giao và sự chăm sóc khách hàng sau sửa chữa, trung tâm có 3 quy trình dịch vụ được kiểm soát chặt chẽ như sau: Thực hiện báo giá dịch vụ và linh kiện thay thế trước khi sửa chữa. Gồm cả các tư vấn lựa chọn linh kiện để giảm giá thành nhưng vẫn đảm bảo chất lượng. Kiểm tra hóa đơn nội bộ và xin ý kiến khách hàng nhằm đảm bảo nhân viên của trung tâm trung thực không tự ý tăng giá dịch vụ. Đường dây hotline 24/7 tiếp nhận ý kiến phản hồi của khách hàng. Mặt khác, trung tâm KHÔNG tính phí di chuyển tới nhà bạn, KHÔNG tính phí kiểm tra nếu không thực hiện sửa chữa, KHÔNG tính phí vận chuyển nếu máy giặt có lỗi cần phải sử dụng các máy móc tại trung tâm. Vậy nên, bạn hoàn toàn yên tâm về giá thành cả khi chúng tôi sửa chữa máy giặt tại nhà hay phải di chuyển về Trung tâm Điện Máy Xanh Hồ Chí Minh.',
 			className: 'content',
 		},
 		picture2: {
@@ -1665,7 +1665,7 @@ export const listContentServices = [
 			className: '',
 		},
 		title4: {
-			content: '7 lý do bạn nên chọn Điện Máy Minh để sửa máy giặt ngay hôm nay',
+			content: '7 lý do bạn nên chọn Điện Máy Xanh để sửa máy giặt ngay hôm nay',
 			className: 'title',
 		},
 		content4: {
@@ -1711,7 +1711,7 @@ export const listContentServices = [
 		},
 		headTitle: {
 			content:
-				'Với 13 năm hoạt động sửa tivi và thay màn hình tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện Máy Minh sẽ phát triển hơn nữa.',
+				'Với 13 năm hoạt động sửa tivi và thay màn hình tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện Máy Xanh sẽ phát triển hơn nữa.',
 			className: 'head-title',
 		},
 		title1: {

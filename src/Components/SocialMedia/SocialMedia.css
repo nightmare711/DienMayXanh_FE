@@ -1,0 +1,38 @@
+.fixed-left {
+  position: fixed;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 45px;
+}
+.fixed-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7px;
+  color: white;
+  text-decoration: none;
+  align-items: center;
+}
+.fixed-items span {
+  font-size: 10px;
+  text-align: center;
+}
+.fixed-items .icon {
+  font-size: 25px;
+}
+.fixed-left .facebook {
+  background-color: #3b5998;
+}
+.fixed-left .twitter {
+  background-color: #55acee;
+}
+.fixed-left .pinterest {
+  background-color: #cc2127;
+}
+.fixed-left .linkin {
+  background-color: #0077b5;
+}
+.fixed-left .exit {
+  background-color: #dd4b39;
+}
