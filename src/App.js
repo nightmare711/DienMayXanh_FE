@@ -16,10 +16,30 @@ import {
 } from 'Components'
 import { Product, PostsPage, Contact } from 'pages'
 import { Switch, Route } from 'react-router-dom'
-import { purchaseList } from 'constants/purchase'
 import { listOldProduct } from 'constants/old-products'
 import { listContentServices } from 'constants/content-services'
 import { listServicesWithImg } from 'constants/list-services-img'
+import { useLocation } from 'react-router-dom'
+const DefaultRoute = () => {
+	const location = useLocation()
+	if (
+		location.pathname === '/posts' ||
+		location.pathname === '/services' ||
+		location.pathname === '/contact'
+	) {
+		return null
+	}
+	return (
+		<>
+			{/* <div className='mt-30'>
+				<News list={purchaseList} title='DỊCH VỤ SỬA CHỮA ĐỒ CŨ' />
+			</div> */}
+			<div className='mt-30'>
+				<News list={listOldProduct} title='TIN TỨC ĐỒ CŨ' />
+			</div>
+		</>
+	)
+}
 function App() {
 	return (
 		<div className='App'>
@@ -33,13 +53,16 @@ function App() {
 				<ContainerRow>
 					<ContainerContent>
 						<Switch>
-							{listContentServices.map((list) => (
-								<Route exact path={`/posts/${list.href}`}>
+							{listContentServices.map((list, index) => (
+								<Route key={index} exact path={`/services/${list.href}`}>
 									<PostsPage list={list} />
 								</Route>
 							))}
 							<Route exact path='/services'>
 								<News title='Dịch vụ' list={listServicesWithImg} />
+							</Route>
+							<Route exact path='/posts'>
+								<News list={listOldProduct} title='TIN TỨC ĐỒ CŨ' />
 							</Route>
 							<Route exact path='/contact' component={Contact} />
 							<Route exact path='/products' component={Product} />
@@ -50,13 +73,7 @@ function App() {
 						<CardServices />
 					</ContainerColumn>
 				</ContainerRow>
-
-				<div className='mt-30'>
-					<News list={purchaseList} title='DỊCH VỤ THU MUA ĐỒ CŨ' />
-				</div>
-				<div className='mt-30'>
-					<News list={listOldProduct} title='TIN TỨC ĐỒ CŨ' />
-				</div>
+				<DefaultRoute />
 			</PaddingContent>
 
 			<Footer />

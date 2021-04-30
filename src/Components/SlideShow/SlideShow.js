@@ -7,7 +7,7 @@ import './SlideShow.css'
 
 export const SlideShow = () => {
 	return (
-		<div className='slideshow-container'>
+		<div className='slideshow-container mt-30'>
 			<CardList title='Danh mục sản phẩm' list={listProduct} />
 			<Slide>
 				<div className='each-slide'>

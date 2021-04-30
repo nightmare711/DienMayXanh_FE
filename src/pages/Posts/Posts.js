@@ -10,17 +10,20 @@ export const PostsPage = ({ list }) => {
 		}
 		console.log(temp)
 		setListContent(temp)
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [])
 	return (
 		<div className='posts-page'>
 			<div className='heading-primary'>Bài viết</div>
 			<div className='list-posts'>
 				{listContent
-					? listContent.map((content) => {
+					? listContent.map((content, index) => {
 							return content.imgUrl ? (
-								<img className={content.className} src={content.imgUrl} alt='dsad' />
+								<img key={index} className={content.className} src={content.imgUrl} alt='dsad' />
 							) : (
-								<div className={content.className}>{content.content}</div>
+								<div key={index} className={content.className}>
+									{content.content}
+								</div>
 							)
 					  })
 					: null}

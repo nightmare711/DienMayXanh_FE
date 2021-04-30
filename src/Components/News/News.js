@@ -17,7 +17,7 @@ export const News = ({ list, title }) => {
 								<FontAwesomeIcon icon={faCalendarWeek} className='icon' />
 								{item.date}
 							</span>
-							<span>{item.content}</span>
+							<span className='content'>{item.content}</span>
 							<div onClick={() => window.open(item.href, '_blank')} className='news-detail'>
 								Xem chi tiết <b>{'>'}</b>
 							</div>

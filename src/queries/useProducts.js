@@ -5,5 +5,6 @@ export const useGetProducts = () => {
 		return fetch('https://fathomless-brook-60197.herokuapp.com/products')
 			.then((res) => res.json())
 			.then((result) => result.result)
+			.catch((err) => console.log(err))
 	})
 }

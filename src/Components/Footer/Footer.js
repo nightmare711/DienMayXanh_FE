@@ -4,7 +4,7 @@ import { faStreetView, faLifeRing } from '@fortawesome/free-solid-svg-icons'
 import './Footer.css'
 export const Footer = () => {
 	return (
-		<div className='footer'>
+		<div className='footer mt-30'>
 			<div className='container-footer'>
 				<div className='col-footer'>
 					<div className='header'>Điện máy Xanh</div>

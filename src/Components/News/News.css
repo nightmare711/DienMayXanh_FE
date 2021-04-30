@@ -27,6 +27,9 @@
     color: var(--primary);
     cursor: pointer;
 }
+.news .list .item .txt-frame .content {
+    color:black;
+}
 .news .news-detail:hover {
     text-decoration: underline;
 }
