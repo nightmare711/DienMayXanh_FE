@@ -1,59 +1,56 @@
 .slideshow-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
-.slideshow-container [aria-roledescription = 'carousel'] {
-    width: 70%;
+.slideshow-container [aria-roledescription="carousel"] {
+  width: 70%;
 }
 .react-slideshow-container {
-    height:100%;
-    position:relative;
+  height: 100%;
+  position: relative;
 }
 .slideshow-container .each-slide {
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:100%;
-    
-    
-    
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
 }
 .slideshow-container .each-slide .image {
-    background-size: 100% 350px;
-    background-repeat: no-repeat;
-    height: 350px;
+  background-size: 100% 350px;
+  background-repeat: no-repeat;
+  height: 350px;
 }
 .slideshow-container .each-slide .img-1 {
-    background-image: url('https://picsum.photos/200');
+  background-image: url("https://res.cloudinary.com/danhpq17/image/upload/v1619885873/banner1_et6r7v.png");
 }
-.slideshow-container .each-slide .img-2{
-    background-image: url('https://picsum.photos/200');
+.slideshow-container .each-slide .img-2 {
+  background-image: url("https://res.cloudinary.com/danhpq17/image/upload/v1619885924/banner2_woovyu.png");
 }
-.slideshow-container .each-slide .img-3{
-    background-image: url('https://picsum.photos/200');
+.slideshow-container .each-slide .img-3 {
+  background-image: url("https://res.cloudinary.com/danhpq17/image/upload/v1619885923/banner3_fqg5wr.jpg");
 }
-.slideshow-container .each-slide div{
-    height:100%;
-    width: 100%;
+.slideshow-container .each-slide div {
+  height: 100%;
+  width: 100%;
 }
-.slideshow-container button[data-type='prev'] {
-    position: absolute;
-    left:10px;
+.slideshow-container button[data-type="prev"] {
+  position: absolute;
+  left: 10px;
 }
-.slideshow-container button[data-type='next'] {
-    position: absolute;
-    right:10px;
-} 
+.slideshow-container button[data-type="next"] {
+  position: absolute;
+  right: 10px;
+}
 @media only screen and (max-width: 1300px) {
-    .slideshow-container [aria-roledescription = 'carousel'] {
-        width:65%;
-    }
+  .slideshow-container [aria-roledescription="carousel"] {
+    width: 65%;
+  }
 }
 @media only screen and (max-width: 1000px) {
-    .slideshow-container {
-        flex-direction: column;
-    }
-    .slideshow-container [aria-roledescription = 'carousel'] {
-        width: 100%;
-    }
+  .slideshow-container {
+    flex-direction: column;
+  }
+  .slideshow-container [aria-roledescription="carousel"] {
+    width: 100%;
+  }
 }

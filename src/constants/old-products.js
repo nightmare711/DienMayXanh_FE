@@ -1,6 +1,6 @@
 export const listOldProduct = [
 	{
-		title: 'NHỮNG LỖI CỦA TIVI',
+		title: 'Những lỗi của TIVI',
 		image: 'https://res.cloudinary.com/danhpq17/image/upload/v1619435972/tintuc1_lcvvjr.jpg',
 		date: '12/29/2020',
 		content:

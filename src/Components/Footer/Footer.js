@@ -1,5 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { listOldProduct } from 'constants/old-products'
+import { listServices } from 'constants/services'
 import { faStreetView, faLifeRing } from '@fortawesome/free-solid-svg-icons'
 import './Footer.css'
 export const Footer = () => {
@@ -92,36 +94,14 @@ export const Footer = () => {
 					</div>
 					<div className='panel-body'>
 						<ul>
-							<li>
-								<a href='/' title='Những lỗi thường gặp của TIVI'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Những lỗi thường gặp của Tivi
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
+							{listOldProduct.map((item) => (
+								<li>
+									<a href={item.href}>
+										<FontAwesomeIcon className='icon' icon={faLifeRing} />
+										{item.title}
+									</a>
+								</li>
+							))}
 						</ul>
 					</div>
 				</div>
@@ -132,36 +112,14 @@ export const Footer = () => {
 					</div>
 					<div className='panel-body'>
 						<ul>
-							<li>
-								<a href='/' title='Những lỗi thường gặp của TIVI'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Những lỗi thường gặp của Tivi
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
-							<li>
-								<a href='/' title='Trung tâm bảo hành tivi tại TPHCM'>
-									<FontAwesomeIcon className='icon' icon={faLifeRing} />
-									Trung tâm bảo hành Tivi Sony tại Hồ Chí Minh
-								</a>
-							</li>
+							{listServices.map((item) => (
+								<li>
+									<a href={item.href} title='Những lỗi thường gặp của TIVI'>
+										<FontAwesomeIcon className='icon' icon={faLifeRing} />
+										{item.content}
+									</a>
+								</li>
+							))}
 						</ul>
 					</div>
 				</div>
