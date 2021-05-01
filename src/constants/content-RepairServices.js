@@ -437,7 +437,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content5: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture5: {
@@ -449,7 +449,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content6: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture6: {
@@ -560,7 +560,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content5: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture5: {
@@ -572,7 +572,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content6: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture6: {
@@ -660,7 +660,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content5: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture5: {
@@ -672,7 +672,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content6: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture6: {
@@ -769,7 +769,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content5: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture5: {
@@ -781,7 +781,7 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		content6: {
-			content: [''],
+			content: '',
 			className: '',
 		},
 		picture6: {

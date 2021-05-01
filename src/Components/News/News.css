@@ -42,9 +42,13 @@
     margin-right: 5px !important;
 }
 .news .txt-frame .title {
+    cursor: pointer;
     font-size:20px;
     font-weight: 600;
     color: var(--primary)
+}
+.news .txt-frame .title:hover{
+    text-decoration: underline;
 }
 .news .list .item:hover {
     background-color: white;

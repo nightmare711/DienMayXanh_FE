@@ -10,7 +10,7 @@ export const ProductList = ({ list }) => {
 						<img src={item.imgUrl} alt=''></img>
 					</div>
 					<h2 className='title-pro'>
-						<a href='/'>{item.name}</a>
+						<a href={() => false}>{item.name}</a>
 					</h2>
 					<div className='status-pro'>
 						<p>Tình trạng: Còn hàng</p>

@@ -30,12 +30,16 @@
     cursor: pointer;
     color: var(--primary);
 }
-.card-list .list .item:hover{
+.card-list .list .item:hover a{
     color:white;
+}
+.card-services .card-list .list .item:hover a {
+    color: var(--primary)
 }
 .card-list .list .item  a{
     text-decoration: none;
-    color: var(--primary) !important;
+    color: var(--primary);
+    transition: all .5s;
 }
 .card-list .list .item:hover {
     background-color: var(--primary);

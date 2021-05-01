@@ -20,6 +20,8 @@ import { Switch, Route } from 'react-router-dom'
 import { listOldProduct } from 'constants/old-products'
 import { listContentServices } from 'constants/content-services'
 import { listServicesWithImg } from 'constants/list-services-img'
+import { listContentRepairServices } from 'constants/content-RepairServices'
+import { listContentoldProduct } from 'constants/content-oldproduct'
 import { useGetProducts } from 'queries/useProducts'
 import { useLocation } from 'react-router-dom'
 const DefaultRoute = () => {
@@ -57,6 +59,20 @@ function App() {
 				<ContainerRow>
 					<ContainerContent>
 						<Switch>
+							{listContentoldProduct.map((list, index) => {
+								return (
+									<Route key={index} exact path={`/posts/${list.href}`}>
+										<PostsPage list={list} />
+									</Route>
+								)
+							})}
+							{listContentRepairServices.map((list, index) => {
+								return (
+									<Route key={index} exact path={`/services/${list.href}`}>
+										<PostsPage list={list} />
+									</Route>
+								)
+							})}
 							{listContentServices.map((list, index) => (
 								<Route key={index} exact path={`/services/${list.href}`}>
 									<PostsPage list={list} />
