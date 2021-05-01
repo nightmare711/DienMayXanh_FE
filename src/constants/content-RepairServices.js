@@ -6,7 +6,7 @@ export const listContentRepairServices = [
 		},
 		headTitle: {
 			content:
-				'Với 13 năm hoạt động sửa tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện Máy Minh sẽ phát triển hơn nữa.',
+				'Với 13 năm hoạt động sửa tivi tại nhà, chúng tôi nhận được sự tin tưởng và ủng hộ của khách hàng để dịch vụ sửa tivi tại Điện máy Xanh sẽ phát triển hơn nữa.',
 			className: 'head-title',
 		},
 		title1: {
@@ -119,11 +119,11 @@ export const listContentRepairServices = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ sữa chữa máy lạnh tại nhà Điện Máy Minh với đội ngũ nhân viên chuyên sửa máy lạnh với 10 năm kinh nghiệm và sự uy tín caủa người dùng.',
+				'Dịch vụ sữa chữa máy lạnh tại nhà Điện máy Xanh với đội ngũ nhân viên chuyên sửa máy lạnh với 10 năm kinh nghiệm và sự uy tín caủa người dùng.',
 			className: 'head-title',
 		},
 		title1: {
-			content: 'Dịch vụ sửa máy lạnh Điện Máy Minh ',
+			content: 'Dịch vụ sửa máy lạnh Điện máy Xanh ',
 			className: 'title',
 		},
 		content1: {
@@ -189,7 +189,7 @@ export const listContentRepairServices = [
 			content: [
 				'a. Máy lạnh không có nguồn: thông thường bị các nguyên nhân như bị đứt cầu chì hoặc vasiton, lỏng mối nối điện, ngắt mạch hay bị đứt dây điện, thiết bị an toàn được mở hay biên thế bị hư. Những trường hợp này thông thường cách sửa chữa rất đơn giản như kiểm tra lại điện thế, thay thế cở và loại cầu chì phù hợp, xiết chắc lại các mối nối điện, kiểm tra mạch điện và thiết bị an toàn.',
 				'b. Máy lạnh có nguồn nhưng không lạnh hoặc máy lạnh bị đóng tuyết, chảy nước: Đầu tiên nếu máy lạnh của các bạn chưa được vệ sinh bảo trì từ 6 tháng đến 1 năm thì vấn đề này rất bình thường. Máy lạnh được làm lạnh từ môi chất lạnh và phân phát thông qua dần lạnh. Trường hợp môi chất lạnh bị thiếu hụt do quá trình sử dụng hoặc dàn lạnh quá bẩn đều khiến máy lạnh chạy không ổn định.',
-				'DỊCH VỤ Điện Máy Minh - Chuyên bảo trì, vệ sinh, sữa chữa máy lạnh tận nhà',
+				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sữa chữa máy lạnh tận nhà',
 				'Hotline:  0983649952',
 			],
 			className: 'content',
@@ -220,7 +220,7 @@ export const listContentRepairServices = [
 		},
 		content6: {
 			content: [
-				'Với đội ngủ nhân viên được đào tạo bài bản, có kinh nghiệm chuyên môn cao và hệ thống chi nhánh trải đều khắp Thành Phố Hồ Chí Minh. Dịch vụ Điện Máy Minh có thể làm hài lòng khách hàng khó tính nhất.',
+				'Với đội ngủ nhân viên được đào tạo bài bản, có kinh nghiệm chuyên môn cao và hệ thống chi nhánh trải đều khắp Thành Phố Hồ Chí Minh. Dịch vụ Điện máy Xanh có thể làm hài lòng khách hàng khó tính nhất.',
 			],
 			className: 'content',
 		},
@@ -237,7 +237,7 @@ export const listContentRepairServices = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Điện Máy Minh chuyên sửa máy giặt tận nhà tại TP.HCM với đội ngũ nhân viên chuyên sua may giat với 10 năm kinh nghiệm.',
+				'Dịch vụ Điện máy Xanh chuyên sửa máy giặt tận nhà tại TP.HCM với đội ngũ nhân viên chuyên sua may giat với 10 năm kinh nghiệm.',
 			className: 'head-title',
 		},
 		title1: {
@@ -255,9 +255,9 @@ export const listContentRepairServices = [
 				'Máy giặt báo lỗi ở màn hình và không hoạt động',
 				'Khi đang giặt, máy rung lắc mạnh',
 				'Sửa máy giặt bị chạm điện',
-				'DỊCH VỤ Điện Máy Minh - Chuyên bảo trì, vệ sinh, sữa chữa tủ lạnh tận nhà',
+				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sữa chữa tủ lạnh tận nhà',
 				'Hotline:  0397575917',
-				'Phòng dịch vụ khách hàng Điện Máy Minh.',
+				'Phòng dịch vụ khách hàng Điện máy Xanh.',
 			],
 			className: 'content',
 		},
@@ -280,7 +280,7 @@ export const listContentRepairServices = [
 				'Ngoài ra quy khách còn được hưởng một chế độ chăm sóc khách hàng cực kì chu đáo.',
 				'Khi máy giặt cửa ngang, cửa đứng của quý khách bị các bệnh như trên hãy liên hệ ngay với chúng tôi để được sử dụng dịch vụ tốt nhất.',
 				'Ngoài ra chúng tôi còn bảo hành, bảo dưỡng máy giặt chính hãng của: Electrolux, LG, SamSung, Hitachi, Toshiba, Sanyo, Panasonic …',
-				'SỬA MÁY GIẶT TẬN NHÀ – KHÔNG NGẠI XA – KHỎI LO VỀ GIÁ CHỈ CÓ Ở Điện Máy Minh',
+				'SỬA MÁY GIẶT TẬN NHÀ – KHÔNG NGẠI XA – KHỎI LO VỀ GIÁ CHỈ CÓ Ở Điện máy Xanh',
 			],
 			className: 'content',
 		},
@@ -352,7 +352,7 @@ export const listContentRepairServices = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Điện Máy Minh chuyên vệ sinh máy lạnh tận nhà tại TP.HCM với đội ngũ nhân viên chuyên vệ sinh máy lạnh với nhiều năm trong nghề, lịch sự, sạch sẽ khi làm tại nha.',
+				'Dịch vụ Điện máy Xanh chuyên vệ sinh máy lạnh tận nhà tại TP.HCM với đội ngũ nhân viên chuyên vệ sinh máy lạnh với nhiều năm trong nghề, lịch sự, sạch sẽ khi làm tại nha.',
 			className: 'head-title',
 		},
 		title1: {
@@ -424,7 +424,7 @@ export const listContentRepairServices = [
 				'Lắp vỏ máy',
 				'Kiểm tra lương gas hao hụt',
 				'Kiểm tra thiết bị điện, phịch cắm điện tiếp xúc, thông mạch.',
-				'DỊCH VỤ Điện Máy Minh - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị Điện Máy Minh. Hotline:   039.75.75.917',
+				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị Điện máy Xanh. Hotline:   039.75.75.917',
 			],
 			className: 'content',
 		},
@@ -465,7 +465,7 @@ export const listContentRepairServices = [
 		},
 		headTitle: {
 			content:
-				'Dịch vụ Điện Máy Minh chuyên sửa tủ lạnh tại nhà ở tất cả các Quận TP.HCM với đội ngũ nhân viên chuyên nghiêp, lịch sự 10 năm kinh nghiệm sữa chữa tại nhà.',
+				'Dịch vụ Điện máy Xanh chuyên sửa tủ lạnh tại nhà ở tất cả các Quận TP.HCM với đội ngũ nhân viên chuyên nghiêp, lịch sự 10 năm kinh nghiệm sữa chữa tại nhà.',
 			className: 'head-title',
 		},
 		title1: {
@@ -496,7 +496,7 @@ export const listContentRepairServices = [
 		},
 		content2: {
 			content: [
-				'Nhân viên Điện Máy Minh được trang bị kiến thức tốt và có kinh nghiệm lâu năm trong việc sửa tủ lạnh tại nhà',
+				'Nhân viên Điện máy Xanh được trang bị kiến thức tốt và có kinh nghiệm lâu năm trong việc sửa tủ lạnh tại nhà',
 				'Nhanh chóng có mặt tại địa điểm yêu cầu của khách hàng sau 30 phút gọi',
 				'Đưa ra các giải pháp hợp lý và phù hợp nhất giúp khách hàng tiết kiệm tối đa chi phí sửa tủ lạnh',
 				'Nhanh nhẹn, vui vẻ và làm việc với tinh thần trách nhiệm cao',
