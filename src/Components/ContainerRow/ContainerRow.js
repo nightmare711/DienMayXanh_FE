@@ -1,7 +1,8 @@
 import React from 'react'
+import './ContainerRow.css'
 
 export const ContainerRow = ({ children }) => {
-	return <div style={{ display: 'flex', flexDirection: 'row', marginTop: '30px' }}>{children}</div>
+	return <div className='container-row'>{children}</div>
 }
 export const ContainerColumn = ({ children }) => {
 	return (

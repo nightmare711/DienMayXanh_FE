@@ -10,7 +10,12 @@
     flex-direction: column;
 }
 .news .list .item {
-    align-items: flex-start;
+    margin:0;
+    padding:0;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .news .txt-frame {
     display: flex;

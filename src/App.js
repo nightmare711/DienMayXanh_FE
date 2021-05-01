@@ -15,11 +15,12 @@ import {
 	PhoneCall,
 	SocialMedia,
 } from 'Components'
-import { Product, PostsPage, Contact } from 'pages'
+import { Product, PostsPage, Contact, HomePage } from 'pages'
 import { Switch, Route } from 'react-router-dom'
 import { listOldProduct } from 'constants/old-products'
 import { listContentServices } from 'constants/content-services'
 import { listServicesWithImg } from 'constants/list-services-img'
+import { useGetProducts } from 'queries/useProducts'
 import { useLocation } from 'react-router-dom'
 const DefaultRoute = () => {
 	const location = useLocation()
@@ -42,6 +43,7 @@ const DefaultRoute = () => {
 	)
 }
 function App() {
+	const { data: products, status } = useGetProducts()
 	return (
 		<div className='App'>
 			<PhoneCall />
@@ -67,7 +69,10 @@ function App() {
 								<News list={listOldProduct} title='TIN TỨC ĐỒ CŨ' />
 							</Route>
 							<Route exact path='/contact' component={Contact} />
-							<Route exact path='/products' component={Product} />
+							<Route exact path='/products'>
+								{status ? <Product products={products} /> : null}
+							</Route>
+							<Route exact path='/' component={HomePage} />
 						</Switch>
 					</ContainerContent>
 					<ContainerColumn>

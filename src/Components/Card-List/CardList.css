@@ -48,3 +48,14 @@
     margin-right: 20px;
     
 }
+@media only screen and (max-width: 1300px) {
+    .card-list {
+        width:250px
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .card-list {
+        width:100%;
+        margin-bottom:30px;
+    }
+}
