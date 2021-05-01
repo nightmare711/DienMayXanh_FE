@@ -12,13 +12,33 @@ export const News = ({ list, title }) => {
 					<li key={index} className='item'>
 						<img src={item.image} alt='' />
 						<div className='txt-frame'>
-							<span className='title'>{item.title}</span>
+							<span
+								onClick={() => {
+									if (title === 'Dịch vụ') {
+										window.open(`/services/${item.href}`, '_self')
+									} else {
+										window.open(`/posts/${item.href}`, '_self')
+									}
+								}}
+								className='title'
+							>
+								{item.title}
+							</span>
 							<span className='date'>
 								<FontAwesomeIcon icon={faCalendarWeek} className='icon' />
 								{item.date}
 							</span>
-							<span>{item.content}</span>
-							<div onClick={() => window.open(item.href, '_blank')} className='news-detail'>
+							<span className='content'>{item.content}</span>
+							<div
+								onClick={() => {
+									if (title === 'Dịch vụ') {
+										window.open(`/services/${item.href}`, '_self')
+									} else {
+										window.open(`/posts/${item.href}`, '_self')
+									}
+								}}
+								className='news-detail'
+							>
 								Xem chi tiết <b>{'>'}</b>
 							</div>
 						</div>

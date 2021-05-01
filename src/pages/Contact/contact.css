@@ -89,3 +89,8 @@
 .container-map {
   padding:30px;
 }
+@media only screen and (max-width: 720px) {
+  .main-contact {
+      flex-direction: column;
+  }
+}

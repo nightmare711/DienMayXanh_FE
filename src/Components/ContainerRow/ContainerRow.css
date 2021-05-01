@@ -1,0 +1,10 @@
+.container-row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+@media only screen and (max-width: 1000px) {
+    .container-row {
+        flex-direction: column;
+    }
+}

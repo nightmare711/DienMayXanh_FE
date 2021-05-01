@@ -47,3 +47,13 @@
   color: var(--primary);
   font-weight: 500;
 }
+@media only screen and (max-width: 1000px) {
+  .container-product {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .container-product {
+    grid-template-columns: 1fr;
+  }
+}

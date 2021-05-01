@@ -7,17 +7,15 @@ export const ProductList = ({ list }) => {
 			{list.map((item, index) => (
 				<div key={index} className='thumbnail'>
 					<div className='image-pro'>
-						<img src={item.image} alt=''></img>
+						<img src={item.imgUrl} alt=''></img>
 					</div>
 					<h2 className='title-pro'>
-						<a href='link' link={item.href}>
-							{item.title}
-						</a>
+						<a href={() => false}>{item.name}</a>
 					</h2>
 					<div className='status-pro'>
-						<p>Tình trạng: {item.status}</p>
+						<p>Tình trạng: Còn hàng</p>
 						<p>
-							Bảo hành: <i>{item.guarantee}</i>
+							Bảo hành: <i>12 tháng</i>
 						</p>
 					</div>
 					<div className='price'>

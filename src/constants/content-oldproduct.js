@@ -358,7 +358,7 @@ export const listContentoldProduct = [
 			className: 'img',
 		},
 		title2: {
-			content: 'Ngoài Sửa Remot Tvi Ra Còn Nhận Sửa Tivi Các Hãng',
+			content: 'Ngoài Sửa Remote Tivi Ra Còn Nhận Sửa Tivi Các Hãng',
 			className: 'title',
 		},
 		content2: {
@@ -486,7 +486,7 @@ export const listContentoldProduct = [
 		},
 		content3: {
 			content:
-				'1. POWER Nhiệm vụ chuyển kênh hoặc chuyển sang chế độ chờ. 2. INPUT Nhấn và chọn nguồn đầu vào. 3. S.MODE Chọn chế độ âm thanh 4. P.MODE điều chỉnh chế độ hình ảnh người dùng. 5. FREEZE Ảnh tĩnh. 6. SLEEP. Chọn thời gian trước khi tivi tự động tắt. 7. Nhấn 0-9. để chọn trực tiếp một kênh tivi khi bạn đang xem tivi. 8. VOL+/-: Tăng hoặc giảm âm lượng. 9. INFO Dùng để hiển thị thông tin của kênh hiện tại. 10. MUTE Nhấn nút này có tác dụng dùng để tắt tiếng',
+				'1. POWER Nhiệm vụ chuyển kênh hoặc chuyển sang chế độ chờ. \n 2. INPUT Nhấn và chọn nguồn đầu vào. \n 3. S.MODE Chọn chế độ âm thanh \n 4. P.MODE điều chỉnh chế độ hình ảnh người dùng. \n 5. FREEZE Ảnh tĩnh. \n 6. SLEEP. Chọn thời gian trước khi tivi tự động tắt. \n 7. Nhấn 0-9. để chọn trực tiếp một kênh tivi khi bạn đang xem tivi. \n 8. VOL+/-: Tăng hoặc giảm âm lượng. \n 9. INFO Dùng để hiển thị thông tin của kênh hiện tại. 10. MUTE Nhấn nút này có tác dụng dùng để tắt tiếng',
 			className: 'content',
 		},
 		picture3: {

@@ -1,5 +1,6 @@
 import React from 'react'
+import './PaddingContent.css'
 
 export const PaddingContent = ({ children }) => {
-	return <div style={{ padding: '60px' }}>{children}</div>
+	return <div className='padding-content'>{children}</div>
 }

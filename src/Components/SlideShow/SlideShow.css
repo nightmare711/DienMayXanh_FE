@@ -44,3 +44,16 @@
     position: absolute;
     right:10px;
 } 
+@media only screen and (max-width: 1300px) {
+    .slideshow-container [aria-roledescription = 'carousel'] {
+        width:65%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .slideshow-container {
+        flex-direction: column;
+    }
+    .slideshow-container [aria-roledescription = 'carousel'] {
+        width: 100%;
+    }
+}

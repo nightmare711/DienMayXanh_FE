@@ -11,7 +11,7 @@ export const CardList = ({ list, title }) => {
 					<li key={index} className='item'>
 						<FontAwesomeIcon className='icon' icon={item.icon} />
 						{item.href ? (
-							<a href={`/posts/${item.href}`}>{item.content}</a>
+							<a href={`/services/${item.href}`}>{item.content}</a>
 						) : (
 							<span>{item.content}</span>
 						)}

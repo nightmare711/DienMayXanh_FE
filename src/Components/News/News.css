@@ -10,7 +10,12 @@
     flex-direction: column;
 }
 .news .list .item {
-    align-items: flex-start;
+    margin:0;
+    padding:0;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .news .txt-frame {
     display: flex;
@@ -27,6 +32,9 @@
     color: var(--primary);
     cursor: pointer;
 }
+.news .list .item .txt-frame .content {
+    color:black;
+}
 .news .news-detail:hover {
     text-decoration: underline;
 }
@@ -34,9 +42,13 @@
     margin-right: 5px !important;
 }
 .news .txt-frame .title {
+    cursor: pointer;
     font-size:20px;
     font-weight: 600;
     color: var(--primary)
+}
+.news .txt-frame .title:hover{
+    text-decoration: underline;
 }
 .news .list .item:hover {
     background-color: white;

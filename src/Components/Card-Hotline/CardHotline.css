@@ -1,5 +1,5 @@
-.card-hotline {
-
+.card-hotline .list .item{
+    padding:10px;
 }
 .card-hotline .list .item:hover {
     background-color: white;

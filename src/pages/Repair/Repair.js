@@ -1,7 +1,7 @@
 import React from 'react'
-import './Posts.css'
+import './Repair.css'
 
-export const PostsPage = ({ list }) => {
+export const RepairPage = ({ list }) => {
 	const [listContent, setListContent] = React.useState(null)
 	React.useEffect(() => {
 		const temp = []
@@ -13,25 +13,17 @@ export const PostsPage = ({ list }) => {
 		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [])
 	return (
-		<div className='posts-page'>
+		<div className='repair-page'>
 			<div className='heading-primary'>Bài viết</div>
 			<div className='list-posts'>
 				{listContent
 					? listContent.map((content, index) => {
-							return typeof content.content !== 'object' ? (
-								content.imgUrl ? (
-									<img key={index} className={content.className} src={content.imgUrl} alt='dsad' />
-								) : (
-									<div key={index} className={content.className}>
-										{content.content}
-									</div>
-								)
+							return content.imgUrl ? (
+								<img key={index} className={content.className} src={content.imgUrl} alt='dsad' />
 							) : (
-								<ul>
-									{content.content.map((item, index) => (
-										<li key={index}>{item}</li>
-									))}
-								</ul>
+								<div key={index} className={content.className}>
+									{content.content}
+								</div>
 							)
 					  })
 					: null}

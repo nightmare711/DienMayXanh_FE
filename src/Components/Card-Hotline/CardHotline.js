@@ -11,8 +11,8 @@ export const CardHotline = ({ title }) => {
 				{listHotline.map((item, index) => (
 					<li key={index} className='item'>
 						<span>{item.title}</span>
-						{item.children.map((child) => (
-							<div className='child'>
+						{item.children.map((child, index) => (
+							<div key={index} className='child'>
 								<FontAwesomeIcon className='icon' icon={child.icon} />
 								<span className='child-txt'>
 									<b>{child.name}:</b> <a href='tel:+1800229933'>{child.phoneNumber}</a>

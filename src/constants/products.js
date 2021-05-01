@@ -1,31 +1,38 @@
 import { faHandPointRight } from '@fortawesome/free-regular-svg-icons'
 export const listProduct = [
 	{
-		content: 'TIVI CŨ',
+		content: 'SỬA TIVI',
 		icon: faHandPointRight,
+		href: 'tho-sua-tivi-tai-nha',
 	},
 	{
-		content: 'MÁY LẠNH CŨ',
+		content: 'SỬA MÁY LẠNH',
 		icon: faHandPointRight,
+		href: 'sua-may-lanh',
 	},
 	{
-		content: 'MÁY GIẶT CŨ',
+		content: 'SỬA MÁY GIẶT',
 		icon: faHandPointRight,
+		href: 'sua-may-giat',
 	},
 	{
-		content: 'TỦ LẠNH CŨ',
+		content: 'SỬA TỦ LẠNH',
 		icon: faHandPointRight,
+		href: 'sua-tu-lanh',
 	},
 	{
-		content: 'MÁY NƯỚC NÓNG CŨ',
+		content: 'SỬA QUẠT HƠI NƯỚC HCM',
 		icon: faHandPointRight,
+		href: 'sua-quat-hoi-nuoc-hcm',
 	},
 	{
-		content: 'BẾP ĐIỆN TỪ CŨ',
+		content: 'VỆ SINH MÁY LẠNH',
 		icon: faHandPointRight,
+		href: 've-sinh-may-lanh',
 	},
 	{
-		content: 'LINH KIỆN TIVI',
+		content: 'SỬA LAPTOP',
 		icon: faHandPointRight,
+		href: 'sua-laptop',
 	},
 ]
