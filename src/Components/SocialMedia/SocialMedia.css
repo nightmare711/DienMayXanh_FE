@@ -3,8 +3,8 @@
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  width: 45px;
   z-index: 1;
+  width: 40px;
 }
 .fixed-items {
   display: flex;
@@ -14,13 +14,14 @@
   color: white;
   text-decoration: none;
   align-items: center;
+  height: 45px;
 }
 .fixed-items span {
   font-size: 10px;
   text-align: center;
 }
 .fixed-items .icon {
-  font-size: 25px;
+  font-size: 22px;
 }
 .fixed-left .facebook {
   background-color: #3b5998;
