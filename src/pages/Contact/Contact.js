@@ -1,7 +1,7 @@
 import React from 'react'
 import { SimpleMap } from 'Components'
 import { useContact } from 'queries/useContact'
-import './Contact.css'
+import './contact.css'
 
 export const Contact = () => {
 	const [info, setInfo] = React.useState({
