@@ -96,7 +96,7 @@ export const Footer = () => {
 						<ul>
 							{listOldProduct.map((item) => (
 								<li>
-									<a href={item.href}>
+									<a href={`/posts/${item.href}`}>
 										<FontAwesomeIcon className='icon' icon={faLifeRing} />
 										{item.title}
 									</a>
@@ -114,7 +114,7 @@ export const Footer = () => {
 						<ul>
 							{listServices.map((item) => (
 								<li>
-									<a href={item.href} title='Những lỗi thường gặp của TIVI'>
+									<a href={`/services/${item.href}`} title='Những lỗi thường gặp của TIVI'>
 										<FontAwesomeIcon className='icon' icon={faLifeRing} />
 										{item.content}
 									</a>

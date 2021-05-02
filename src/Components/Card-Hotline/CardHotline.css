@@ -32,4 +32,8 @@
 }
 .card-hotline .child-txt a:hover{
     text-decoration: underline;
+    
+}
+.card-hotline.card-list .list .item:hover a {
+    color:var(--primary) !important;
 }
