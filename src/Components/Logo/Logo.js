@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
 import { faSearch } from '@fortawesome/free-solid-svg-icons'
-import LogoDienMay from 'assets/logo.png'
+import LogoDienMay from 'assets/logomain2.jpg'
 import { Link } from 'react-router-dom'
 import './Logo.css'
 

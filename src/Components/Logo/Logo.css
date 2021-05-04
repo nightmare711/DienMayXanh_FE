@@ -1,38 +1,40 @@
 .logo-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding:0px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 60px;
+  background-color: #00a1e5;
 }
 .logo-container img {
-    width:350px;
+  width: 100%;
 }
 .logo-container .search-input {
-    display: flex;
-    border:1px solid #8a8a8a;
-    padding:5px 20px;
-    align-items: center;
-    flex-direction: row;
-    border-radius: 20px;
-    
+  display: flex;
+  border: 1px solid #8a8a8a;
+  padding: 5px 20px;
+  align-items: center;
+  flex-direction: row;
+  border-radius: 20px;
+  background-color: white;
 }
 .logo-container .search-input input {
-    border:none;
-    outline: none;
-    font-size:16px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background-color: white;
 }
 .logo-container .search-input .icon {
-    color: #8a8a8a;
+  color: #8a8a8a;
 }
 @media only screen and (max-width: 720px) {
-    .logo-container {
-        flex-direction: column;
-        margin-bottom: 30px;
-    }
+  .logo-container {
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
 }
 @media only screen and (max-width: 460px) {
-    .logo-container img {
-        width:250px
-    }
+  .logo-container img {
+    width: 250px;
+  }
 }
