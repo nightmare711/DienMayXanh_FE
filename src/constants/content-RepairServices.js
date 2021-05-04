@@ -136,7 +136,7 @@ export const listContentRepairServices = [
 				'Khắc phục máy lạnh bị chảy nước',
 				'Sửa máy lạnh chớp đèn liên tục',
 				'GỌI NGAY ĐỂ NHẬN ĐƯỢC ƯU ĐÃI CHỈ TRONG HÔM NAY',
-				'HOTLINE ĐẶT LỊCH : 039.75.75.917 (miễn phí) GỌI NGAY NHÂN VIÊN CÓ MẶT TRONG 15 PHÚT',
+				'HOTLINE ĐẶT LỊCH : 0917323239 (miễn phí) GỌI NGAY NHÂN VIÊN CÓ MẶT TRONG 15 PHÚT',
 			],
 			className: 'content',
 		},
@@ -190,7 +190,7 @@ export const listContentRepairServices = [
 				'a. Máy lạnh không có nguồn: thông thường bị các nguyên nhân như bị đứt cầu chì hoặc vasiton, lỏng mối nối điện, ngắt mạch hay bị đứt dây điện, thiết bị an toàn được mở hay biên thế bị hư. Những trường hợp này thông thường cách sửa chữa rất đơn giản như kiểm tra lại điện thế, thay thế cở và loại cầu chì phù hợp, xiết chắc lại các mối nối điện, kiểm tra mạch điện và thiết bị an toàn.',
 				'b. Máy lạnh có nguồn nhưng không lạnh hoặc máy lạnh bị đóng tuyết, chảy nước: Đầu tiên nếu máy lạnh của các bạn chưa được vệ sinh bảo trì từ 6 tháng đến 1 năm thì vấn đề này rất bình thường. Máy lạnh được làm lạnh từ môi chất lạnh và phân phát thông qua dần lạnh. Trường hợp môi chất lạnh bị thiếu hụt do quá trình sử dụng hoặc dàn lạnh quá bẩn đều khiến máy lạnh chạy không ổn định.',
 				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sữa chữa máy lạnh tận nhà',
-				'Hotline:  0983649952',
+				'Hotline:  0917323239',
 			],
 			className: 'content',
 		},
@@ -256,7 +256,7 @@ export const listContentRepairServices = [
 				'Khi đang giặt, máy rung lắc mạnh',
 				'Sửa máy giặt bị chạm điện',
 				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sữa chữa tủ lạnh tận nhà',
-				'Hotline:  0397575917',
+				'Hotline:  0917323239',
 				'Phòng dịch vụ khách hàng Điện máy Xanh.',
 			],
 			className: 'content',
@@ -424,7 +424,7 @@ export const listContentRepairServices = [
 				'Lắp vỏ máy',
 				'Kiểm tra lương gas hao hụt',
 				'Kiểm tra thiết bị điện, phịch cắm điện tiếp xúc, thông mạch.',
-				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị Điện máy Xanh. Hotline:   039.75.75.917',
+				'DỊCH VỤ Điện máy Xanh - Chuyên bảo trì, vệ sinh, sửa chữa máy lạnh tận nhà cho hệ thống siêu thị Điện máy Xanh. Hotline:   0917323239',
 			],
 			className: 'content',
 		},
@@ -789,5 +789,116 @@ export const listContentRepairServices = [
 			className: '',
 		},
 		href: 'sua-laptop',
+	},
+	{
+		header: {
+			content: 'SỬA LÒ VI SÓNG',
+			className: 'header',
+		},
+		headTitle: {
+			content:
+				'Với sự tiện lợi của lò vi sóng hiện nay, đã giúp không ít nhiều người phụ nữ khẳng định mình trong bữa cơm gia đình. Nhưng sau khi sử dụng một thời gian, lò vi sóng chắc chắc sẽ bị hỏng. Lúc này, tìm được một trung tâm chuyên nghiệp, uy tín là việc mà việc cần làm. Để tìm được một người thợ sửa lò vi sóng là việc không phải đơn giản.',
+			className: 'head-title',
+		},
+		title1: {
+			content: '1. Tại sao nên chọn dịch vụ của chúng tôi.',
+			className: 'title',
+		},
+		content1: {
+			content: [
+				'Sửa chữa tại nhà: Chúng tôi sẽ đến tại nhà kiểm tra xem bị lỗi gì và báo giá. Nếu đồng ý chúng tôi sẽ sửa chữa.',
+				'Giá cả phải chăng: Lấy giá thị trường làm trung tâm. Nếu thấy giá quá cao có thể không sửa chữa',
+				'Là một Công ty có nhiều năm hoạt động trong lĩnh vực sửa chữa lò vi sóng',
+				'Đội ngũ thợ làm việc với tinh thần trách nhiệm cao. Được đào tạo từ các trường đại học, cao đẳng chuyên về sửa chữa lò vi sóng.',
+				'Hướng dẫn cách sử dụng thiết bị sao cho an toàn và hiệu quả nhất',
+				'Tư vấn hổ trợ khác hàng khi gặp sự cố tận tình',
+			],
+			className: 'content',
+		},
+		picture1: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620103548/lovisong1_le4k2t.jpg',
+			className: 'img',
+		},
+		title2: {
+			content: '2. Những lỗi thường gặp của lò vi sóng',
+			className: 'title',
+		},
+		content2: {
+			content: [
+				'Lò vi sóng không hoạt động',
+				'Đĩa xong không xoay',
+				'Phát hiện tia lữa lóe sáng trong khoang lò',
+				'Bảng điều khiển không hoạt động',
+				'Lò vi sóng hoạt động nhưng thức ăn không nóng',
+				'Lò vi sóng bị nhiễm điện',
+				'Tự ngưng khi đang hoạt động',
+				'Đèn bên trong lò không sáng',
+				'Lò vi sóng có tiếng lạ, kêu to',
+			],
+			className: 'content',
+		},
+		picture2: {
+			imgUrl: 'https://res.cloudinary.com/danhpq17/image/upload/v1620103551/lovisong2_lxixtb.jpg',
+			className: 'img',
+		},
+		title3: {
+			content: '3. Quy trình làm việc của dịch vụ sửa lò vi sóng',
+			className: 'title',
+		},
+		content3: {
+			content: [
+				'Nhận thông tin từ khách hàng',
+				'Sau khi tiếp nhận thông tin từ khách hàng. Chúng tôi sẽ cử nhân viên kỹ thuật qua kiểm tra',
+				'Kiểm tra tình trạng lò trước khi sửa chữa',
+				'Tìm ra các nguyên nhân gây ra hỏng hóc, đồng thời định mức độ hư hỏng sản phẩm',
+				'Tư vấn, báo giá cho khách hàng',
+				'Sau khi được sự đồng ý của khách hàng sẽ tiến hàng sửa chữa',
+				'Các kỹ thuật sẽ nghiệm thu sau khi sửa chữa',
+				'Viết phiếu bảo hành, tư vấn sử dụng  sao cho an toàn.',
+				'Thanh toán.',
+			],
+			className: 'content',
+		},
+		picture3: {
+			imgUrl: '',
+			className: '',
+		},
+		title4: {
+			content: '',
+			className: '',
+		},
+		content4: {
+			content: '',
+			className: '',
+		},
+		picture4: {
+			imgUrl: '',
+			className: '',
+		},
+		title5: {
+			content: '',
+			className: '',
+		},
+		content5: {
+			content: '',
+			className: '',
+		},
+		picture5: {
+			imgUrl: '',
+			className: '',
+		},
+		title6: {
+			content: '',
+			className: '',
+		},
+		content6: {
+			content: '',
+			className: '',
+		},
+		picture6: {
+			imgUrl: '',
+			className: '',
+		},
+		href: 'sua-lo-vi-song',
 	},
 ]

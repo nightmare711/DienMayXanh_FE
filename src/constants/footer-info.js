@@ -1,10 +1,4 @@
-import {
-	faStreetView,
-	faLifeRing,
-	faPhone,
-	faEnvelope,
-	faGlobe,
-} from '@fortawesome/free-solid-svg-icons'
+import { faStreetView, faPhone, faEnvelope, faGlobe } from '@fortawesome/free-solid-svg-icons'
 export const listFooter = [
 	{
 		title: 'Trụ sở chính',
@@ -28,12 +22,12 @@ export const listFooter = [
 	},
 	{
 		title: 'Điện thoại',
-		content: '0123456789',
+		content: '0917323239',
 		icon: faPhone,
 	},
 	{
 		title: 'Hotline',
-		content: '1900 1826',
+		content: '0917323239',
 		icon: faPhone,
 	},
 	{

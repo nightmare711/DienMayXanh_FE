@@ -15,7 +15,7 @@ export const CardHotline = ({ title }) => {
 							<div key={index} className='child'>
 								<FontAwesomeIcon className='icon' icon={child.icon} />
 								<span className='child-txt'>
-									<b>{child.name}:</b> <a href='tel:+1800229933'>{child.phoneNumber}</a>
+									<b>{child.name}:</b> <a href='tel:+84917323239'>{child.phoneNumber}</a>
 								</span>
 							</div>
 						))}

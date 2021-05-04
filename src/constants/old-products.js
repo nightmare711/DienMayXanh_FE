@@ -36,7 +36,7 @@ export const listOldProduct = [
 		image: 'https://res.cloudinary.com/danhpq17/image/upload/v1619435973/tintuc5_bxhogg.jpg',
 		date: '11/10/2019',
 		content:
-			'Bạn đang sở hữu một chiếc tivi asanzo nhưng không biết hoặc còn mơ mồ về cách sử dụng của nó. Hôm nay Điện Máy Minh sẽ gửi đến bạn bài viết hướng dẫn các bước sử dụng tivi asanyo mới nhất hiện nay',
+			'Bạn đang sở hữu một chiếc tivi asanzo nhưng không biết hoặc còn mơ mồ về cách sử dụng của nó. Hôm nay điện máy xanh sẽ gửi đến bạn bài viết hướng dẫn các bước sử dụng tivi asanyo mới nhất hiện nay',
 		href: 'huong-dan-cac-buoc-su-dung-tivi-asanzo-moi-nhat-hien-nay',
 	},
 ]

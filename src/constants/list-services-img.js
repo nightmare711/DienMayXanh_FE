@@ -45,7 +45,7 @@ export const listServicesWithImg = [
 		image: 'https://res.cloudinary.com/danhpq17/image/upload/v1619507516/toshibaa800.1_dggkjs.jpg',
 		date: '11/10/2019',
 		content:
-			'Khuyến mãi sửa chữa bàn DJ tại HCM Sửa Bàn Dj Điện Máy Minh sửa tận nơi khu vực nào? Trung tâm bảo hành sửa chữa Bàn DJ Điện Máy Minh chuyên sửa Bàn DJ giá rẻ tận nơi Hồ Chí Minh Hỗ Trợ Các Quận với chi phí rẻ nhất, phục vụ tốt nhất, bảo hành lâu dài sau sửa chữa cho quý khách yên tâm sử dụng.',
+			'Khuyến mãi sửa chữa bàn DJ tại HCM Sửa Bàn Dj điện máy xanh sửa tận nơi khu vực nào? Trung tâm bảo hành sửa chữa Bàn DJ điện máy xanh chuyên sửa Bàn DJ giá rẻ tận nơi Hồ Chí Minh Hỗ Trợ Các Quận với chi phí rẻ nhất, phục vụ tốt nhất, bảo hành lâu dài sau sửa chữa cho quý khách yên tâm sử dụng.',
 		href: 'loi-may-giat-toshiba-a800-mat-nguon',
 	},
 	{
@@ -144,7 +144,7 @@ export const listServicesWithImg = [
 		image: 'https://res.cloudinary.com/danhpq17/image/upload/v1619435972/tintuc2_drm0ak.png',
 		date: '11/10/2019',
 		content:
-			'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây Điện Máy Minh sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
+			'Trong quá trình sử dụng tivi, chắc hẳn các bạn sẽ gặp phải nhiều lỗi xảy ra ở tivi. Tivi thì có rất nhiều thương hiệu khác nhau như Samsung LG, sony,, panasonic. Một trong số lỗi hay gặp ở tivi Samsung đó là lỗi 5 nháy đèn đỏ. Dưới đây điện máy xanh sẽ giúp chỉ cho bạn cách tự giải quyết sử lý sửa lỗi tivi Samsung 5 nháy đèn đỏ.',
 		href: 'tivi-samsung-nhay-5-nhip',
 	},
 	{

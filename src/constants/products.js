@@ -35,4 +35,9 @@ export const listProduct = [
 		icon: faHandPointRight,
 		href: 'sua-laptop',
 	},
+	{
+		content: 'SỬA LÒ VI SÓNG',
+		icon: faHandPointRight,
+		href: 'sua-lo-vi-song',
+	},
 ]

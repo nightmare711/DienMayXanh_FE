@@ -5,7 +5,7 @@ import './ZaloSticky.css'
 export const ZaloSticky = () => {
 	return (
 		<img
-			onClick={() => window.open('https://zalo.me/0906198928', '_blank')}
+			onClick={() => window.open('https://zalo.me/0917323239', '_blank')}
 			src={ZaloIcon}
 			alt='zalo'
 			className='zalo'

@@ -57,7 +57,7 @@ export const Footer = () => {
 									<b>
 										<FontAwesomeIcon icon={faStreetView} /> Điện thoại:
 									</b>
-									0123456789
+									0917323239
 								</span>
 							</li>
 							<li>
@@ -65,7 +65,7 @@ export const Footer = () => {
 									<b>
 										<FontAwesomeIcon icon={faStreetView} /> Hotline:
 									</b>
-									1900 1234
+									0917323239
 								</span>
 							</li>
 							<li>
